@@ -1,0 +1,63 @@
+baseURL: 'https://blog.yexca.net/'
+languageCode: zh-cn
+title: "yexca'Blog"
+theme: 'hugo-theme-stack'
+copyright: yexca
+
+defaultContentLanguage: 'zh-cn'
+defaultContentLanguageInSubdir: false
+
+hasCJKLanguage: true
+
+languages:
+  zh-cn:
+    contentDir: 'content/zh-cn'
+    disabled: false
+    languageCode: 'zh-cn'
+    languageDirection: 'ltr'
+    languageName: '简体中文'
+    title: "yexca'Blog"
+    weight: 1
+    params:
+      sidebar:
+        subtitle: 把这个不美好的世界，编程您所期望的样子吧！
+  zh-tw:
+    contentDir: 'content/zh-tw'
+    disabled: false
+    languageCode: 'zh-tw'
+    languageDirection: 'ltr'
+    languageName: '繁體中文'
+    title: "yexca'Blog"
+    weight: 2
+    params:
+      sidebar:
+        subtitle: 把這個不美好的世界，編程您所期望的樣子吧！
+  en:
+    contentDir: 'content/en-us'
+    disabled: false
+    languageCode: 'en'
+    languageDirection: 'ltr'
+    languageName: 'English'
+    title: "yexca'Blog"
+    weight: 3
+    params:
+      sidebar:
+        subtitle: "Tech Otakus Change The World"
+  ja:
+    contentDir: 'content/ja-jp'
+    disable: false
+    languageCode: 'ja'
+    languageDirection: 'ltr'
+    languageName: '日本語'
+    title: "yexca'Blog"
+    weight: 4
+    params:
+      sidebar:
+        subtitle: "この世で道が尽きることなく、行きたいと望めば、道は足元に広がっている"
+
+pagination:
+    pagerSize: 10
+
+permalinks:
+    posts: /archives/:slug/
+    page: /:slug/
