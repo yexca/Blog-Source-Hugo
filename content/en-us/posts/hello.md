@@ -2,9 +2,9 @@
 title : 'Hello'
 slug : 1
 tags: 
-    - EnglishTag
+    - EnglishTagTest
 categories:
-    - EnglishCategories
+    - EnglishCategoryTest
 ---
 
 Hello Hugo

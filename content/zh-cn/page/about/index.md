@@ -8,7 +8,7 @@ aliases:
   - about-hugo
   - contact
 # license: CC BY-NC-ND
-lastmod: '2024-12-27T16:16:16+09:00'
+lastmod: '2024-12-28T02:30:16+09:00'
 comments: false
 menu:
     main: 
@@ -27,6 +27,26 @@ menu:
 
 文章仅作解决问题的记录
 
+## 现有网站
+
+最近和朋友交谈的时候，他提到了喜欢一个甚至我都忘了自己搞的一个网站，遂在此记录目前我所有的网站
+
+博客
+
+* WordPress 博客: <https://wp.yexca.net/> 
+* Jekyll 博客: <https://jekyllblog.yexca.net/>
+* xlog 博客: <https://xlog.yexca.net/> *重装系统没备份钱包，就当没了吧*
+* Hugo 博客: <https://blog.yexca.net/> *现在在更新的博客*
+
+VRChat 教程
+
+* WordPress 博客: <https://vrc.yexca.net/>
+* Docsify 文档: <https://vrchat.yexca.net/>
+
+Music
+
+* Navidrome: <https://music.yexca.net/> *不看 DNS 记录真忘了*
+
 ## 联系我
 
 Email: <yexca@duck.com>
@@ -40,4 +60,4 @@ Email: <yexca@duck.com>
 - 2023.04.04 转换为全 Docker 部署
 - 2023.05.05 纪念服务器第一次崩了
 - 2023.07.03 转移博客至 Jekyll
-- 2023.07.03 转移博客至 Hugo (为多语言支持)
+- 2024.12.27 转移博客至 Hugo (为多语言支持)

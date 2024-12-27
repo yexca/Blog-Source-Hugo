@@ -1,34 +1,43 @@
 ---
 title: About
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
+slug: /about
+# description: Hugo, the world's fastest framework for building websites
+date: '2021-11-04T20:20:20+08:00'
 aliases:
   - about-us
   - about-hugo
   - contact
-license: CC BY-NC-ND
-lastmod: '2020-10-09'
+# license: CC BY-NC-ND
+lastmod: '2024-12-27T16:16:16+09:00'
+comments: false
 menu:
     main: 
-        weight: -90
+        weight: 6
         params:
             icon: user
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache License 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hello, I am [yexca](https://lit.link/yexca)
 
-Hugo makes use of a variety of open source projects including:
+This Website is the content of my daily study share
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+## Purpose
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Because I cannot remember everything I studied, I built this Website to memo what problems I solved
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+And the article is just for memo
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+## Concat
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Email: <yexca@duck.com>
+
+## History
+
+- 2021.11.04 Published
+- 2021.11.12 Started building, modified lots and decided to choose the Astra theme (have reinstalled)
+- 2021.11.22 Changed the theme to [Sakurairo](https://iro.tw/)
+- 2022.01.30 Changed the theme to [Argon](https://github.com/solstice23/argon-theme)
+- 2023.04.04 Transformed to Docker-built for all program
+- 2023.05.05 The serve is downtime firstly
+- 2023.07.03 Change the Blog system to Jekyll
+- 2024.12.27 Change the Blog system to Hugo (for i18n)

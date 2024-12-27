@@ -20,7 +20,7 @@ links:
     description: Hiyoung 的博客
     website: https://blog.hiyoung.xyz/
     image: https://cdn.jsdelivr.net/gh/hiyoung3937/img_hiyoung@master/bolg/bolg_icon.jpg
-  - title: "yexca'Docs"
+  - title: "VRChat Docs"
     description: 对于游戏 VRchat 所写的教程文档
     website: https://vrchat.yexca.net/
   - title: "VRChat 博客"

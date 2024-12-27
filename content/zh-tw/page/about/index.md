@@ -1,34 +1,43 @@
 ---
-title: About
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
+title: 關於
+slug: /about
+# description: Hugo, the world's fastest framework for building websites
+date: '2021-11-04T20:20:20+08:00'
 aliases:
   - about-us
   - about-hugo
   - contact
-license: CC BY-NC-ND
-lastmod: '2020-10-09'
+# license: CC BY-NC-ND
+lastmod: '2024-12-27T16:16:16+09:00'
+comments: false
 menu:
     main: 
-        weight: -90
+        weight: 6
         params:
             icon: user
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache License 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+您好，我是 [yexca](https://lit.link/yexca)
 
-Hugo makes use of a variety of open source projects including:
+此網站為我的日常學習分享
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+## 建站目的
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+由於本人記憶力不是特別好，故建立此網站記錄自己進行探索時遇到困難的解決過程
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+文章僅作解決問題的記錄
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+## 聯絡我
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Email: <yexca@duck.com>
+
+## 網站歷史
+
+- 2021.11.04 建立
+- 2021.11.12 開始建設，透過多次修改，最終使用 Astra 主題（崩潰重裝過）
+- 2021.11.22 更換主題 [Sakurairo](https://iro.tw/)
+- 2022.01.30 更換主題 [Argon](https://github.com/solstice23/argon-theme)
+- 2023.04.04 轉換為全 Docker 部署
+- 2023.05.05 紀念伺服器第一次崩了
+- 2023.07.03 轉移部落格至 Jekyll
+- 2024.12.27 轉移部落格至 Hugo (為多語言支援)

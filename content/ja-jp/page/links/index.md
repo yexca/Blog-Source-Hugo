@@ -1,5 +1,5 @@
 ---
-title: Links
+title: リンク
 slug: /links
 date: 2024-12-27T18:20:25+0900
 readingTime: false
