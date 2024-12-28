@@ -3,12 +3,12 @@ title: 关于
 slug: /about
 # description: Hugo, the world's fastest framework for building websites
 date: '2021-11-04T20:20:20+08:00'
+lastmod: '2024-12-28T23:49:16+09:00'
 aliases:
   - about-us
   - about-hugo
   - contact
 # license: CC BY-NC-ND
-lastmod: '2024-12-28T02:30:16+09:00'
 comments: false
 menu:
     main: 
@@ -17,47 +17,65 @@ menu:
             icon: user
 ---
 
-您好，我是 [yexca](https://lit.link/yexca)
+您好呀~，我是 [yexca](https://lit.link/yexca)
 
-此网站为我的日常学习分享
+## 这是哪？
 
-## 建站目的
+欢迎来到我的个人博客！这里是我记录学习与探索的小天地，最近偶尔也分享一些生活中的小感悟
 
-由于本人记忆力不是特别好，故建立此网站记录自己进行探索时遇到困难的解决过程
+## 这里有什么？
 
-文章仅作解决问题的记录
+这个博客是我的 **个人知识库**，记录了我在学习过程中遇到的难题和解决方法，也会不定时分享一些探索的内容
 
-## 现有网站
+希望这些记录不仅能帮助到我自己，也能成为你在探索旅程中的小助手～
 
-最近和朋友交谈的时候，他提到了喜欢一个甚至我都忘了自己搞的一个网站，遂在此记录目前我所有的网站
+## 我是谁？
 
-博客
+哎呀，既然你都点进来了，那就跟你聊聊吧～
 
-* WordPress 博客: <https://wp.yexca.net/> 
-* Jekyll 博客: <https://jekyllblog.yexca.net/>
-* xlog 博客: <https://xlog.yexca.net/> *重装系统没备份钱包，就当没了吧*
+* 一名热衷于技术探索的开发者。喜欢尝试新鲜的事物，虽然现在只会经典的 B/S 架构开发，但相信未来会更厉害！(Flag 稳稳插起)
+* 热爱聆听音乐，尤其是甜甜的曲风。最近循环播放 [恋の押し売り](https://music.youtube.com/watch?v=I_YfQj2IlmY&si=4KdzRSsvDGNpm7u-)，甜甜的歌最棒啦！另外就算歌词是悲伤的，只要配上轻快的旋律，像 [空唄](https://music.youtube.com/watch?v=BIL21F_HwgY&si=wjyZhahxAAabUwKD) 也很棒，甜甜的旋律什么的也最棒啦！
+
+## 愿景
+
+通过学习、记录和分享，找到让生活更加丰富多彩的方法，增加我的主观寿命喵～
+
+新的道路在等着我去走，更有趣的事情在未来等着发生！✨
+
+## 看看我做了啥？
+
+Wow~ ⊙o⊙
+
+### 博客
+
+* WordPress 博客: <https://wp.yexca.net/> *我太爱 Argon 主题啦*
+* Jekyll 博客: <https://jekyllblog.yexca.net/> *这个主题也不错，可惜多语言支持改起来太麻烦啦*
+* xlog 博客: <https://xlog.yexca.net/> *重装系统没备份钱包，就当没了吧 (悲)*
 * Hugo 博客: <https://blog.yexca.net/> *现在在更新的博客*
 
-VRChat 教程
+### VRChat 教程
 
 * WordPress 博客: <https://vrc.yexca.net/>
 * Docsify 文档: <https://vrchat.yexca.net/>
 
-Music
+### 音乐
 
-* Navidrome: <https://music.yexca.net/> *不看 DNS 记录真忘了*
+* Navidrome: <https://music.yexca.net/> *不看 DNS 记录真忘了，用的不多~(￣▽￣)~**
 
-## 联系我
+## 网站的故事  
 
-Email: <yexca@duck.com>
+{{< timeline src="/content/zh-cn/page/about/about.json" >}}
 
-## 网站历史
+## 加点元气!
 
-- 2021.11.04 建立
-- 2021.11.12 开始建设，通过多次修改，最终使用 Astra 主题（崩溃重装过）
-- 2021.11.22 更换主题 [Sakurairo](https://iro.tw/)
-- 2022.01.30 更换主题 [Argon](https://github.com/solstice23/argon-theme)
-- 2023.04.04 转换为全 Docker 部署
-- 2023.05.05 纪念服务器第一次崩了
-- 2023.07.03 转移博客至 Jekyll
-- 2024.12.27 转移博客至 Hugo (为多语言支持)
+生活就像一场冒险游戏，每天都有新地图、新任务。虽然偶尔会碰到 Bug，但也有无数宝藏等着挖掘～
+
+主线任务可能很困难，支线任务可能很繁琐，但对于正在经历的人来说，这都是最棒的体验。无论何时都要盛装登场，每段经历都是全心投入
+
+希望看到这里的你可以有一种积极有趣的生活态度：
+
+**保持好奇心，去探索更多可能性！**
+
+## 还想看更多？
+
+或许可以去看看 <https://lit.link/yexca> ？ （虽然好久没更新了）

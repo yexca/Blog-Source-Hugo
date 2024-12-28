@@ -1,0 +1,35 @@
+[
+  {
+    "date": "2021-11-04",
+    "content": "计划建立该博客 <br/> 有一个可以自己随心所欲创作的地方它不酷吗＼(~o~)／"
+  },
+  {
+    "date": "2021-11-12",
+    "content": "建设完成 <br/> 折腾了好几天，崩溃重装过，最终使用 Astra 主题，终于整出了像样的页面，但折腾它不快乐嘛~"
+  },
+  {
+    "date": "2021-11-22",
+    "content": "更换主题为 Sakurairo <br/> 可爱捏 ~"
+  },
+  {
+    "date": "2022-01-30",
+    "content": "更换主题为 <a href=\"https://github.com/solstice23/argon-theme\" target=\"_blank\" class=\"link\" rel=\"noopener\">Argon</a> <br/> 好看又实用，<a href=\"https://wp.yexca.net/\" target=\"_blank\" class=\"link\" rel=\"noopener\">现在还留着</a>"
+  },
+  {
+    "date": "2023-04-04",
+    "content": "转换为全 Docker 部署 <br/> Docker 改变世界，当然也包括我的博客世界啦~"
+  },
+  {
+    "date": "2023-05-05",
+    "content": "纪念服务器第一次崩溃 (经验 +1)"
+  },
+  {
+    "date": "2023-07-03",
+    "content": "转移博客至 Jekyll <br/> 换了个工具，更轻便也更 geek ~"
+  },
+  {
+    "date": "2024-12-27",
+    "content": "转移博客至 Hugo <br/> 咱也是国际化起来了 ( •̀ ω •́ )✧"
+  }
+]
+  

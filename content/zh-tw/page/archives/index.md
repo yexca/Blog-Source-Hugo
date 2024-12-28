@@ -1,5 +1,5 @@
 ---
-title: "歸檔"
+title: "檔案"
 layout: "archives"
 slug: "archives"
 menu:

@@ -8,23 +8,23 @@ links:
   #   description: GitHub is the world's largest software development platform.
   #   website: https://github.com/yexca
   #   image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: Categories
-    description: All categories
+  - title: カテゴリー
+    description: 全てのカテゴリー
     website: /categories
     icon: categories
-  - title: Tags
-    description: All Tags
+  - title: タグ
+    description: 全てのタグ
     website: /tags
     icon: tags
   - title: "Hiyoung'Blog"
-    description: Hiyoung's Blog
+    description: Hiyoung のブログ
     website: https://blog.hiyoung.xyz/
     image: https://cdn.jsdelivr.net/gh/hiyoung3937/img_hiyoung@master/bolg/bolg_icon.jpg
   - title: "VRChat Docs"
-    description: The tutorial docs for the game VRChat
+    description: ゲーム VRChat のチュートリアルドキュメント
     website: https://vrchat.yexca.net/
   - title: "VRChat Blog"
-    description: The tutorial for the game VRChat, But the content is less than docs
+    description: VRChat ゲームのチュートリアルですが、内容はドキュメントよりも少ないです
     website: https://vrc.yexca.net/
     image: https://vrc.yexca.net/assets/img/auther.jpg
 menu:
