@@ -15,6 +15,8 @@ menu:
 comments: false
 ---
 
+> 此頁面有使用機器翻譯喲 ( ¯\_(ツ)_/¯)
+
 ## 引言
 
 因本人技術力過低，本站多次崩潰並重裝，此頁面將從使用主題 [Argon](https://github.com/solstice23/argon-theme) 後使用的背景開始記錄
@@ -27,4 +29,4 @@ emmm，雖然換了部落格系統，但還是沒應用場景捏
 
 2022.01.30 | 作者：[MISSILE228](https://www.pixiv.net/users/429077) | PID：[82542737](https://www.pixiv.net/artworks/82542737)
 
-![](https://github.com/yexca/picx-images-hosting/raw/master/2023/04-網站背景/blog-background.2p10z489pjc0.webp)
+![blog-background](https://github.com/yexca/picx-images-hosting/raw/master/2023/04-网站背景/blog-background.2p10z489pjc0.webp)

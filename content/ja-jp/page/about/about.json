@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2021-11-04",
+    "content": "ブログを作成することを決意！ <br/> 自分だけの創作の場所が持てるなんて、めっちゃカッコよくない！？＼(~o~)／"
+  },
+  {
+    "date": "2021-11-12",
+    "content": "完成！ <br/> 何日もかかって、何度もやり直して、最終的に Astra テーマを使って、ようやく形になったけど、面接だけど楽しかったよ〜"
+  },
+  {
+    "date": "2021-11-22",
+    "content": "テーマを Sakurairo に変更！ <br/> 可愛いニャ〜！"
+  },
+  {
+    "date": "2022-01-30",
+    "content": "テーマを <a href=\"https://github.com/solstice23/argon-theme\" target=\"_blank\" class=\"link\" rel=\"noopener\">Argon</a> に変更！ <br/> 見た目も実用性も最高！<a href=\"https://wp.yexca.net/\" target=\"_blank\" class=\"link\" rel=\"noopener\">今も保管してるよ</a>"
+  },
+  {
+    "date": "2023-04-04",
+    "content": "全てを Docker でデプロイ！ <br/> Docker が世界を変えたように、僕のブログの世界も変わったんだよ〜"
+  },
+  {
+    "date": "2023-05-05",
+    "content": "サーバーが初めてクラッシュした記念 (経験値 +1)"
+  },
+  {
+    "date": "2023-07-03",
+    "content": "ブログを Jekyll に移行！ <br/> 新しいツールに変えたことで、軽くてより geek になったよ〜"
+  },
+  {
+    "date": "2024-12-27",
+    "content": "ブログを Hugo に移行！ <br/> ついに国際化しちゃった ( •̀ ω •́ )✧"
+  }
+]

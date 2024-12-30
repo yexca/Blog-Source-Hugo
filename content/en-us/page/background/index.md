@@ -15,18 +15,18 @@ menu:
 comments: false
 ---
 
-> This Page is not completely translated
+> This page uses machine translation ( ¯\_(ツ)_/¯)
 
 ## 引言
 
-因本人技术力过低，本站多次崩溃并重装，此页面将从使用主题 [Argon](https://github.com/solstice23/argon-theme) 后使用的背景开始记录
+Due to my low technical ability, this site has crashed and reinstalled many times. This page will start from the background used after using the theme [Argon](https://github.com/solstice23/argon-theme)
 
-迁移到 Jekyll 后这个主题用背景图片有点麻烦，此帖终结了属于是
+After migrating to Jekyll, it is a bit troublesome to use background images for this theme. This post ends
 
-emmm，Although I changed the Blog system, there is no way to change the background
+Emmm, although the blog system has been changed, there is still no application scenario
 
 ## 正文
 
 2022.01.30 | Author：[MISSILE228](https://www.pixiv.net/users/429077) | PID：[82542737](https://www.pixiv.net/artworks/82542737)
 
-![](https://github.com/yexca/picx-images-hosting/raw/master/2023/04-网站背景/blog-background.2p10z489pjc0.webp)
+![blog-background](https://github.com/yexca/picx-images-hosting/raw/master/2023/04-网站背景/blog-background.2p10z489pjc0.webp)
