@@ -16,7 +16,7 @@ tags:
 ---
 
 > 该文章由 [Hiyoung](https://blog.hiyoung.xyz/) 编写
-> 
+>
 > 其文章: <https://blog.hiyoung.xyz/2022/08/03/0b5e2db181ab/>
 
 最近经常要使用Github保存我学习过程中的代码，发现无法直接上传文件夹，遂在网上查了一下使用Git上传，所以写个博文记录一下
@@ -33,13 +33,15 @@ tags:
 
 ![使用Git上传文件至Github_2](https://cdn.statically.io/gh/hiyoung3937/img_hiyoung@master/bolg/%E4%BD%BF%E7%94%A8Git%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6%E8%87%B3Github_2.5nufudqca7w0.jpg)
 
-<center style="font-size:15px;color:#FFFFF;text-decoration:underline">我这里已经clone完成</center>### 2. 在文件夹内呼出Git Bash框
+我这里已经clone完成
+
+### 2. 在文件夹内呼出Git Bash框
 
 ![使用Git上传文件至Github_3](https://cdn.statically.io/gh/hiyoung3937/img_hiyoung@master/bolg/%E4%BD%BF%E7%94%A8Git%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6%E8%87%B3Github_3.5l2lii1fkd80.jpg)
 
 ### 3. Clone远程仓库
 
-```
+```html
 <pre class="language-bash" data-info="bash" data-role="codeBlock"><span class="token function">git</span> clone + 你的仓库地址
 <span class="token function">git</span> clone https://github.com/hiyoung3937/study_code.git  //示例
 ```
@@ -48,7 +50,7 @@ tags:
 
 ### 5. 上传
 
-```
+```html
 <pre class="language-bash" data-info="bash" data-role="codeBlock"><span class="token builtin class-name">cd</span>  study_code.git   //根据自己的远程仓库名输入
 <span class="token function">git</span> init
 <span class="token function">git</span> <span class="token function">add</span> <span class="token builtin class-name">.</span>

@@ -17,7 +17,7 @@ menu:
             icon: user
 ---
 
-您好呀~，我是 [yexca (叶卡)](https://lit.link/yexca)
+欢迎!~，我是 [yexca (叶卡)](https://lit.link/yexca)
 
 ## 这是哪？
 

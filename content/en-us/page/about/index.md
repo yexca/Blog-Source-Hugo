@@ -19,7 +19,7 @@ menu:
 
 > This page uses machine translation ( ¯\_(ツ)_/¯)
 
-Hello there! I'm [yexca /jɛːˈkɑ/](https://lit.link/yexca)
+Hello there! I'm [yexca /jɛkɑ/](https://lit.link/yexca)
 
 ## Where?
 

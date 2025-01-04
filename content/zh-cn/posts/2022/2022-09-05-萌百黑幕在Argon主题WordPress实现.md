@@ -15,7 +15,7 @@ tags:
 
 ## 引言
 
-这个黑幕很好玩啊，非常好玩啊，<span class="heimu" title="这样可以吗？">可惜首页无法渲染出来</span>，而且Markdown编写渲染也难
+这个黑幕很好玩啊，非常好玩啊，<span class="heimu" title="这样可以吗？">可惜首页无法渲染出来</span>，而且 Markdown 编写渲染也难
 
 ## 使用
 

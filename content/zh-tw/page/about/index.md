@@ -19,7 +19,7 @@ menu:
 
 > 此頁面有使用機器翻譯喲 ( ¯\_(ツ)_/¯)
 
-您好呀~ 我是 [yexca (葉卡)](https://lit.link/yexca)
+歡迎!~，我是 [yexca (葉卡)](https://lit.link/yexca)
 
 ## 這是在哪裡？
 

@@ -1,6 +1,6 @@
 ---
 slug: 43
-title: Markdown 简述(学习笔记)
+title: Markdown 简述 (学习笔记)
 date: '2022-05-28T00:59:23+08:00'
 author: yexca
 # layout: post

@@ -42,8 +42,8 @@ tags:
 
 如下為示例視頻
 
-<div style="position: relative; padding: 30% 45%;"><iframe frameborder="no" scrolling="no" src="https://player.bilibili.com/player.html?cid=206708397&aid=583631611&page=1&as_wide=1&high_quality=1&danmaku=0" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe></div>
+{{< bilibili BV1Tz4y1X7Bg >}}
 
 ## 參考文章
 
-[關於博客園內嵌入bilibili視頻](https://www.cnblogs.com/wkfvawl/p/12268980.html)
+[關於博客園內嵌入 bilibili 視頻](https://www.cnblogs.com/wkfvawl/p/12268980.html)

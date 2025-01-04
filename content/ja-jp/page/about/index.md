@@ -19,7 +19,7 @@ menu:
 
 > このページは機械翻訳を使用しているよ！( ¯\_(ツ)_/¯)
 
-あれ〜、起きた！私は [yexca (いえか)](https://lit.link/yexca) だよ！
+あぁっ、きた！私は [yexca (いえか)](https://lit.link/yexca) だよ！
 
 ## どこ？
 

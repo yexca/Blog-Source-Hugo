@@ -24,7 +24,7 @@ links:
     description: ゲーム VRChat のチュートリアルドキュメント
     website: https://vrchat.yexca.net/
   - title: "VRChat Blog"
-    description: VRChat ゲームのチュートリアルですが、内容はドキュメントよりも少ないです
+    description: VRChat ゲームのチュートリアルだが、内容はドキュメントよりも少ない
     website: https://vrc.yexca.net/
     image: https://vrc.yexca.net/assets/img/auther.jpg
 menu:
