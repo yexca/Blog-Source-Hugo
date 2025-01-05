@@ -6,7 +6,7 @@ author: yexca
 date: 2023-12-21T13:32:15+08:00
 # permalink: /archives/135
 categories:
-    - Front-end
+    - 前端
     - JavaScript
 tags:
     - Ajax

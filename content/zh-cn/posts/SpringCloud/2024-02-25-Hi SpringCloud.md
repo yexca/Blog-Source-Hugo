@@ -6,7 +6,7 @@ author: yexca
 date: 2024-02-25T17:56:54+08:00
 # permalink: /archives/158
 categories:
-    - Back-end
+    - 后端
     - Spring
 tags:
     - SpringCloud

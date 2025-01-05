@@ -6,7 +6,7 @@ author: yexca
 date: 2024-01-22T19:51:24+08:00
 # permalink: /archives/148
 categories:
-    - Front-end
+    - 前端
     - JavaScript
 ---
 

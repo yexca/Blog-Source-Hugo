@@ -6,7 +6,7 @@ author: yexca
 date: 2024-06-03T18:04:58+08:00
 # permalink: /archives/174
 categories:
-    - Front-end
+    - 前端
 ---  
 
 ElementUI 是饿了么团队开发的，一套为开发者、设计师和产品经理准备的基于 Vue2.0 的桌面端组件库
