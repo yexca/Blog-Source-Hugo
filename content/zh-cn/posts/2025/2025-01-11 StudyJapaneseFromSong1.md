@@ -10,6 +10,12 @@ tags:
     - 日语
 ---
 
+> **Japanese Song Series**
+>
+> 僕が死のうと思ったのは: 本文  
+> あくあ色ぱれっと: <https://blog.yexca.net/archives/273>  
+> 恋の押し売り: <https://blog.yexca.net/archives/274>  
+
 ## 引言
 
 有没有一种听力材料，可以让人不是处于学习的状态，可以反复听，并可以尝试影子跟读的呢。这不就是歌曲吗！
