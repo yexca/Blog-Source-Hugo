@@ -55,4 +55,3 @@ host-suffix, starrails.com, direct
 host-suffix, hoyoverse.com, direct
 ip-cidr, 8.209.196.179/8, direct
 ```
-

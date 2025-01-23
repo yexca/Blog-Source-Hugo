@@ -15,7 +15,7 @@ tags:
 
 ## 引言
 
-这个黑幕很好玩啊，非常好玩啊，<span class="heimu" title="这样可以吗？">可惜首页无法渲染出来</span>，而且 Markdown 编写渲染也难
+这个黑幕很好玩啊，非常好玩啊，可惜首页无法渲染出来，而且 Markdown 编写渲染也难
 
 ## 使用
 
@@ -27,7 +27,7 @@ tags:
 
 ## 插入CSS
 
-本是想着实现首页也有黑幕，但实际测试发现首页不会渲染<span class="heimu" title="试试想象Warma的声音">为什么不渲染啊啊啊啊啊啊啊！！！！！！！</span>
+本是想着实现首页也有黑幕，但实际测试发现首页不会渲染 ~~(为什么不渲染啊啊啊啊啊啊啊！！！！！！！试试想象 Warma 的声音)~~
 
 进入后台设置，找到*页脚*设置，输入以下代码，或者在WP的自定义CSS处插入，不过需要去掉标签
 
@@ -66,27 +66,3 @@ tags:
 [Re：萌娘百科上的黑幕实现 – Vanilla\_chan – 博客园](https://www.cnblogs.com/Vanilla-chan/p/12355387.html)
 
 [萌百黑幕CSS代码-Hiyoung’blog](https://hiyoungssr.xyz/2022/08/22/%E8%90%8C%E7%99%BE%E9%BB%91%E5%B9%95CSS%E4%BB%A3%E7%A0%81/)
-
-<style>
-.heimu, .heimu a, a .heimu, .heimu a.new 
-{
-  background-color: #252525;
-  color: #252525;
-  text-shadow: none;
-}
-.heimu:hover, .heimu:active,
-.heimu:hover .heimu, .heimu:active .heimu 
-{
-  color: white !important;
-}
-.heimu:hover a, a:hover .heimu,
-.heimu:active a, a:active .heimu 
-{
-  color: lightblue !important;
-}
-.heimu:hover .new, .heimu .new:hover, .new:hover .heimu,
-.heimu:active .new, .heimu .new:active, .new:active .heimu 
-{
-  color: #BA0000 !important;
-}
-</style>

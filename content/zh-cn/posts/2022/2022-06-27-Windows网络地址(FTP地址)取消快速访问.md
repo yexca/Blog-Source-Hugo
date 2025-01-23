@@ -13,9 +13,9 @@ tags:
     - Windows
 ---
 
-好像并没有解决方法，不过可以把快速访问中自己添加的全删除(恢复默认)
+好像并没有解决方法，不过可以把快速访问中自己添加的全删除 (恢复默认)
 
-定位至“C:\\Users\\用户名\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations”，将此文件夹目录下的文件进行备份后全部删除
+定位至 `C:\\Users\\用户名\\AppData\\Roaming\\Microsoft\\Windows\\Recent\\AutomaticDestinations`，将此文件夹目录下的文件进行备份后全部删除
 
 ## 参考文章
 

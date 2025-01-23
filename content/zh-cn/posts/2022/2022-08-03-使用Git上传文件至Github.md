@@ -21,7 +21,7 @@ tags:
 
 最近经常要使用Github保存我学习过程中的代码，发现无法直接上传文件夹，遂在网上查了一下使用Git上传，所以写个博文记录一下
 
-## Github端操作
+## Github 端操作
 
 ### 1. 复制仓库地址
 
@@ -35,11 +35,11 @@ tags:
 
 我这里已经clone完成
 
-### 2. 在文件夹内呼出Git Bash框
+### 2. 在文件夹内呼出 Git Bash 框
 
 ![使用Git上传文件至Github_3](https://cdn.statically.io/gh/hiyoung3937/img_hiyoung@master/bolg/%E4%BD%BF%E7%94%A8Git%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6%E8%87%B3Github_3.5l2lii1fkd80.jpg)
 
-### 3. Clone远程仓库
+### 3. Clone 远程仓库
 
 ```html
 <pre class="language-bash" data-info="bash" data-role="codeBlock"><span class="token function">git</span> clone + 你的仓库地址

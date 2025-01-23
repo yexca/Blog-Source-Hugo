@@ -1,7 +1,8 @@
 ---
 slug: 44
-title: 'Github Pages建站及自定义域名'
+title: 'Github Pages 建站及自定义域名'
 date: '2022-05-28T15:30:43+08:00'
+lastmod: '2025-01-23T16:15:43+09:00'
 author: yexca
 # layout: post
 # permalink: /archives/44
@@ -15,86 +16,86 @@ tags:
 
 ## 引言
 
-最近基于Github Pages整了一个[个人页面](https://git.yexca.xyz)，记录一下如何使用Github Pages建站以及自定义域名
+最近基于 Github Pages 整了一个个人页面 (已经没了)，记录一下如何使用 Github Pages 建站以及自定义域名
 
-本文没有建站系统等，~~因为我也就写了一个Markdown文件~~
+本文没有建站系统等，~~因为我也就写了一个 Markdown 文件~~
 
 ## 创建Github仓库
 
-首先需要注册一个[Github](https://github.com)账号，登录后[创建一个新仓库](https://github.com/new)
+首先需要注册一个 [Github](https://github.com) 账号，登录后[创建一个新仓库](https://github.com/new)
 
-其中**Repository name**为`username.github.io`，例如我的Github用户名为`yexca`，则输入`yexca.github.io`
+其中 **Repository name** 为 `username.github.io`，例如我的 Github 用户名为 `yexca`，则输入 `yexca.github.io`
 
 ## Git环境安装
 
-Windows环境直接从Git官网直接[下载安装程序](https://git-scm.com/downloads)即可
+Windows 环境直接从 Git 官网直接[下载安装程序](https://git-scm.com/downloads)即可
 
 安装完成后，打开Git Bash，在命令行输入以下代码
 
 ```bash
-$ git config --global user.name "Your Name"
-$ git config --global user.email "email@example.com"
+git config --global user.name "Your Name"
+git config --global user.email "email@example.com"
 ```
 
-其中`“Your Name”`替换为您的姓名，`“email@example”`替换为您的邮箱
+其中 `Your Name` 替换为您的姓名，`email@example.com` 替换为您的邮箱
 
 例如我的
 
 ```bash
-$ git config --global user.name "yexca"
-$ git config --global user.email "yexca@duck.com"
+git config --global user.name "yexca"
+git config --global user.email "yexca@duck.com"
 ```
 
 ## Github Desktop
 
 ### 安装
 
-如果您熟悉Git的操作~~熟悉Git操作怎么会来看我的文章~~，这一步可以跳过
+如果您熟悉 Git 的操作 ~~熟悉 Git 操作怎么会来看我的文章~~，这一步可以跳过
 
-直接进入[Github Desktop官网](Https://desktop.github.com)下载安装即可
+直接进入 [Github Desktop 官网](Https://desktop.github.com)下载安装即可
 
 ### 克隆仓库
 
-打开Github Desktop后登录Github账号选择一个空文件夹将上一步创建的仓库克隆到本地
+打开 Github Desktop 后登录 Github 账号选择一个空文件夹将上一步创建的仓库克隆到本地
 
 然后软件会出现一个仓库变动界面，右方会有一些快捷操作
 
 ![软件界面](https://cdn.jsdelivr.net/gh/yexca/picx-images-hosting@master/2022/05-GithubPages建站/image.43qnbq0gw800.webp)
 
-这里我使用VS Code，点击“Open in Visual Studio Code”在VS Code打开
+这里我使用 VS Code，点击 `Open in Visual Studio Code` 在 VS Code 打开
 
 ### 建立网站
 
-这里直接创建一个`README.md`文件使用[Markdown编辑](https://blog.yexca.net/archives/43)(~~这里顺便放一个我写的Markdown笔记~~)
+这里直接创建一个 `README.md` 文件使用 [Markdown 编辑](https://blog.yexca.net/archives/43)(~~这里顺便放一个我写的Markdown笔记~~)
 
-编辑完成并保持后在`Github Desktop`点击`Commit to main`，然后点击右方`Push origin`即可
+编辑完成并保持后在 `Github Desktop` 点击 `Commit to main`，然后点击右方 `Push origin` 即可
 
-至此访问`username.github.io`即可看到网站内容~~如果没看到请等一段时间~~
+至此访问 `username.github.io` 即可看到网站内容~~如果没看到请等一段时间~~
 
 ## 自定义域名
 
 ### Github Pages
 
-进入刚刚建立的仓库页面，点击`Settings`，左侧找到`Pages`，在`Custom domain`处输入自定义域名然后点击`Save`
+进入刚刚建立的仓库页面，点击 `Settings`，左侧找到 `Pages`，在 `Custom domain` 处输入自定义域名然后点击 `Save`
 
-注：在这里可以进行Jekyll建站主题的选择
+注：在这里可以进行 Jekyll 建站主题的选择
 
 ### DNS
 
-在域名的DNS解析处添加一个`CNAME`类型解析，将域名指向`username.github.io`，其中`username`为您的Github用户名
+在域名的 DNS 解析处添加一个 `CNAME` 类型解析，将域名指向 `username.github.io`，其中 `username` 为您的 Github 用户名
 
 ### HTTPS
 
-这里我用Github的不知为何没成功，于是使用[Cloudflare](https://cloudflare.com/zh-cn/)
+这里我用 Github 的不知为何没成功，于是使用 [Cloudflare](https://cloudflare.com/zh-cn/)
 
-在DNS解析处启用代理，然后在`SSL/TLS`的`边缘证书`处将`始终使用HTTPS`打开即可
+在 DNS 解析处启用代理，然后在 `SSL/TLS` 的 `边缘证书` 处将 `始终使用 HTTPS` 打开即可
 
 ## 其他建站
 
 因无博客需求，我只是写一个简单的文件，如果是建立博客之类的可以使用一些建站工具
 
 * [Jekyll](http://jekyllrb.com/) Github官方支持的建站
-* [VuePress中文网 ](http://caibaojian.com/vuepress/) Markdown推荐
+* [VuePress 中文网](http://caibaojian.com/vuepress/) Markdown推荐
 
 * Gitbook 适合建立文档类网站
 * [LOFFER](https://fromendworld.github.io/LOFFER/)

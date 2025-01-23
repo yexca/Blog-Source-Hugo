@@ -15,7 +15,7 @@ tags:
 ---
 
 > 该文章由 [Hiyoung](https://blog.hiyoung.xyz/) 编写
-> 
+>
 > 其文章: <https://blog.hiyoung.xyz/2022/09/01/906d191f9a59/>
 
 Aria2是Linux下的一个下载工具,这里介绍Windows下的安装与配置,官方Aria2没有GUI界面所以配合AriaNG直接在Web界面进行操作.
@@ -39,9 +39,9 @@ Aria2选择对应的操作系统下载压缩包即可,AriaNG解压后放在Aria2
 AriaNg 现在提供三种版本, 标准版、单文件版和 AriaNg Native.
 
 > 标准版适合在 Web 服务器中部署, 提供资源缓存和按需加载的功能.
-
+>
 > 单文件版适合本地使用, 您下载后只要在浏览器中打开唯一的 html 文件即可.
-
+>
 > AriaNg Native 同样适合本地使用, 并且不需要使用浏览器.
 
 ## 添加配置文件
@@ -214,7 +214,7 @@ CreateObject("WScript.Shell").Run "C:\Users\he ne\Downloads\aria2c.exe --conf-pa
 
 3. 打开index.html
 
-![](https://cdn.statically.io/gh/hiyoung3937/img_hiyoung@master/bolg/Aria2+AriaNG%E9%85%8D%E7%BD%AE%E4%BD%BF%E7%94%A8_1.1ohxweqn3ayo.jpg)
+![img](https://cdn.statically.io/gh/hiyoung3937/img_hiyoung@master/bolg/Aria2+AriaNG%E9%85%8D%E7%BD%AE%E4%BD%BF%E7%94%A8_1.1ohxweqn3ayo.jpg)
 
 打开里面的 index.html 文件，如果显示 “已连接”，则表明搭建成功
 

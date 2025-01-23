@@ -68,7 +68,7 @@ sudo dnf config-manager \
 
 在 Docker Desktop 的 *设置-Resources-File sharing* 添加漫画路径
 
-*注：如果共享的目录在下次启动不存在 (未挂载) ，docker 将无法正常启动*
+注：*如果共享的目录在下次启动不存在 (未挂载) ，docker 将无法正常启动*
 
 * 网络设置
 
