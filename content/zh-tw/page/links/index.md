@@ -10,16 +10,19 @@ links:
   #   image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
   - title: 類別
     description: 所有的類別
-    website: /categories
+    website: /zh-tw/categories
     icon: categories
   - title: 標籤
     description: 所有的標籤
-    website: /tags
+    website: /zh-tw/tags
     icon: tags
   - title: "Hiyoung'Blog"
     description: Hiyoung 的部落格
     website: https://blog.hiyoung.xyz/
     image: https://cdn.jsdelivr.net/gh/hiyoung3937/img_hiyoung@master/bolg/bolg_icon.jpg
+  - title: "Lit Link"
+    description: 我做了什麼
+    website: https://lit.link/yexca
   - title: "VRChat Docs"
     description: 對於遊戲 VRchat 所寫的教學文檔
     website: https://vrchat.yexca.net/

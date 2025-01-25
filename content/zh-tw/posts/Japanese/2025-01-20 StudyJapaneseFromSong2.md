@@ -1,14 +1,25 @@
 ---
-slug: 273
-title: '從歌曲學日語 - 《あくあ色ぱれっと》'
+slug: 219
+title: '從歌曲學日文 - 《あくあ色ぱれっと》'
 # draft: true
 author: yexca
 date: '2025-01-20T00:16:48+09:00'
 categories:
     - 日常
 tags:
-    - 日語
+    - 日文
 ---
+
+> 此頁面有使用機器翻譯喲 ( ¯\_(ツ)_/¯)
+>
+> **日文歌曲系列**
+>
+> | 歌曲名稱 | 翻譯 | 連結 |
+> |:-- | :-- | :--|
+> | 僕が死のうと思ったのは | 曾經我也想過一了百了 | <https://blog.yexca.net/zh-tw/archives/214> |
+> | あくあ色ぱれっと | aqua 的調色板 | 本文 |
+> | 恋の押し売り | 戀愛推銷 | <https://blog.yexca.net/zh-tw/archives/220> |
+> | 17さいのうた | 17 歲的歌曲 | <https://blog.yexca.net/zh-tw/archives/224> |
 
 ## 引言
 

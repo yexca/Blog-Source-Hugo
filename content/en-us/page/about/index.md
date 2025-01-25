@@ -38,12 +38,6 @@ Oh, you’ve clicked in, huh? Guess I owe you a proper intro.
 - A developer with a passion for exploring tech. I love trying out new stuff—right now, I’m sticking with classic B/S architecture, but hey, the future is wide open! (Cue the "Raise the flag" moment.)
 - Big fan of sweet-sounding music. Lately, I’ve been looping [恋の押し売り](https://music.youtube.com/watch?v=I_YfQj2IlmY&si=4KdzRSsvDGNpm7u-). Sweet tunes are just the best! Even when the lyrics are kinda sad, as long as it’s paired with upbeat melodies like [空唄](https://music.youtube.com/watch?v=BIL21F_HwgY&si=wjyZhahxAAabUwKD), it’s still amazing. Sweet melodies, FTW!
 
-## The Dream
-
-New roads are waiting for me, and more exciting things are just around the corner! ✨  
-
-By learning, recording, and sharing, I hope to make life more colorful and boost my **subjective lifespan**.  
-
 ## What have I done so far?
 
 Wow~ ⊙o⊙  
@@ -63,8 +57,9 @@ Inspired by <https://lolicon.app/>, it’s my portfolio for projects. Problem is
 
 ### VRChat Tutorials  
 
-- WordPress Blog: <https://vrc.yexca.net/>  
-- Docsify Docs: <https://vrchat.yexca.net/>  
+- Hexo Argon Blog: <https://vrc.yexca.net/>
+- Hugo Book Docs: <https://vrchat.yexca.net/>
+- Docsify Docs: <https://docsifyvrchat.yexca.net/>  
 
 ### Music  
 

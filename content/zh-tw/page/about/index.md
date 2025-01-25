@@ -38,12 +38,6 @@ menu:
 * 一名熱衷於技術探索的開發者。喜歡嘗試新鮮的事物，雖然現在只能做經典的 B/S 架構開發，但我相信未來一定會更厲害！（Flag 穩穩插起）
 * 愛聽音樂，特別是甜甜的曲風。最近一直循環播放 [恋の押し売り](https://music.youtube.com/watch?v=I_YfQj2IlmY&si=4KdzRSsvDGNpm7u-) ，甜甜的歌最棒啦！另外就算歌詞是悲傷的，配上輕快的旋律，像 [空唄](https://music.youtube.com/watch?v=BIL21F_HwgY&si=wjyZhahxAAabUwKD) 也很棒，甜甜的旋律什麼的也最棒！
 
-## 願景
-
-新的道路正等著我去走，更有趣的事情在未來等著發生！✨
-
-透過學習、紀錄與分享，找到讓生活更加豐富多彩的方法，延長我的主觀壽命喵～
-
 ## 看看我做了啥？
 
 Wow~ ⊙o⊙
@@ -63,8 +57,9 @@ Wow~ ⊙o⊙
 
 ### VRChat 教學
 
-* WordPress 部落格: <https://vrc.yexca.net/>
-* Docsify 文件: <https://vrchat.yexca.net/>
+* Hexo Argon 部落格: <https://vrc.yexca.net/>
+* Hugo Book 文件: <https://vrchat.yexca.net/>
+* Docsify 文件: <https://docsifyvrchat.yexca.net/>  
 
 ### 音樂
 

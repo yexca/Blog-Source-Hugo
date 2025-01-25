@@ -10,11 +10,14 @@ tags:
     - 日语
 ---
 
-> **Japanese Song Series**
+> **日语歌曲系列**
 >
-> 僕が死のうと思ったのは: 本文  
-> あくあ色ぱれっと: <https://blog.yexca.net/archives/273>  
-> 恋の押し売り: <https://blog.yexca.net/archives/274>  
+> | 歌曲名 | 翻译 | 链接 |
+> |:-- | :-- | :--|
+> | 僕が死のうと思ったのは | 曾经我也想过一了百了 | 本文 |
+> | あくあ色ぱれっと | aqua 的调色盘 | <https://blog.yexca.net/archives/214> |
+> | 恋の押し売り | 恋爱推销 | <https://blog.yexca.net/archives/220> |
+> | 17さいのうた | 17 岁的歌 | <https://blog.yexca.net/archives/224> |
 
 ## 引言
 

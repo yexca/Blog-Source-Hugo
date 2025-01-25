@@ -1,5 +1,5 @@
 ---
-slug: 273
+slug: 219
 title: '歌から日本語を学ぼう - 《あくあ色ぱれっと》'
 # draft: true
 author: yexca
@@ -9,6 +9,15 @@ categories:
 tags:
     - 日本語
 ---
+
+> **日本語曲シリーズ**
+>
+> | 曲 | リンク |
+> |:-- | :-- |
+> | 僕が死のうと思ったのは | <https://blog.yexca.net/ja/archives/214> |
+> | あくあ色ぱれっと | この記事 |
+> | 恋の押し売り | <https://blog.yexca.net/ja/archives/220>  |
+> | 17さいのうた | <https://blog.yexca.net/ja/archives/224> |
 
 ## まえがき
 

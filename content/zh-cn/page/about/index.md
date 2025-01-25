@@ -23,7 +23,7 @@ menu:
 
 欢迎来到我的个人博客！这里是我记录学习与探索的小天地，最近偶尔也分享一些生活中的小感悟
 
-## 这里有啥？
+## 这有啥？
 
 这个博客是我的 **个人知识库**，记录了我在学习过程中遇到的难题和解决方法，也会不定时分享一些探索的内容
 
@@ -33,14 +33,8 @@ menu:
 
 哎呀，既然你都点进来了，那就跟你聊聊吧～
 
-* 一名热衷于技术探索的开发者。喜欢尝试新鲜的事物，虽然现在只会经典的 B/S 架构开发，但相信未来会更厉害！(Flag 稳稳插起)
-* 热爱聆听音乐，尤其是甜甜的曲风。最近循环播放 [恋の押し売り](https://music.youtube.com/watch?v=I_YfQj2IlmY&si=4KdzRSsvDGNpm7u-)，甜甜的歌最棒啦！另外就算歌词是悲伤的，只要配上轻快的旋律，像 [空唄](https://music.youtube.com/watch?v=BIL21F_HwgY&si=wjyZhahxAAabUwKD) 也很棒，甜甜的旋律什么的也最棒啦！
-
-## 愿景
-
-新的道路在等着我去走，更有趣的事情在未来等着发生！✨
-
-通过学习、记录和分享，找到让生活更加丰富多彩的方法，增加我的主观寿命喵～
+- 一名热衷于技术探索的开发者。喜欢尝试新鲜的事物，虽然现在只会经典的 B/S 架构开发，但相信未来会更厉害！(Flag 稳稳插起)
+- 热爱聆听音乐，尤其是甜甜的曲风。最近循环播放 [恋の押し売り](https://music.youtube.com/watch?v=I_YfQj2IlmY&si=4KdzRSsvDGNpm7u-)，甜甜的歌最棒啦！另外就算歌词是悲伤的，只要配上轻快的旋律，像 [空唄](https://music.youtube.com/watch?v=BIL21F_HwgY&si=wjyZhahxAAabUwKD) 也很棒，甜甜的旋律什么的也最棒啦！
 
 ## 看看我做了啥？
 
@@ -48,25 +42,26 @@ Wow~ ⊙o⊙
 
 ### 主页
 
-* 网址: <https://yexca.net>
+- 网址: <https://yexca.net>
 
 这是模仿 <https://lolicon.app/> 做的一个对自己的项目介绍的网站，但我貌似没啥项目可以介绍捏，争取以后给填上 (ง •_•)ง
 
 ### 博客
 
-* WordPress 博客: <https://wp.yexca.net/> *我太爱 Argon 主题啦*
-* Jekyll 博客: <https://jekyllblog.yexca.net/> *这个主题也不错，可惜多语言支持改起来太麻烦啦*
-* xlog 博客: <https://xlog.yexca.net/> *重装系统没备份钱包，就当没了吧 (悲)*
-* Hugo 博客: <https://blog.yexca.net/> *现在在更新的博客*
+- WordPress 博客: <https://wp.yexca.net/> *我太爱 Argon 主题啦*
+- Jekyll 博客: <https://jekyllblog.yexca.net/> *这个主题也不错，可惜多语言支持改起来太麻烦啦*
+- xlog 博客: <https://xlog.yexca.net/> *重装系统没备份钱包，就当没了吧 (悲)*
+- Hugo 博客: <https://blog.yexca.net/> *现在在更新的博客*
 
 ### VRChat 教程
 
-* WordPress 博客: <https://vrc.yexca.net/>
-* Docsify 文档: <https://vrchat.yexca.net/>
+- Hexo Argon 博客: <https://vrc.yexca.net/>
+- Hugo Book 文档: <https://vrchat.yexca.net/>
+- Docsify 文档: <https://docsifyvrchat.yexca.net/>  
 
 ### 音乐
 
-* Navidrome: <https://music.yexca.net/> *不看 DNS 记录真忘了，用的不多~(￣▽￣)~**
+- Navidrome: <https://music.yexca.net/> *不看 DNS 记录真忘了，用的不多~(￣▽￣)~**
 
 ## 网站的故事  
 

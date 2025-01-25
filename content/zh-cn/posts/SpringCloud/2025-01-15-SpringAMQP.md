@@ -1,5 +1,5 @@
 ---
-slug: 271
+slug: 217
 title: 'SpringAMQP'
 # draft: true
 author: yexca

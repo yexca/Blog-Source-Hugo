@@ -10,16 +10,19 @@ links:
   #   image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
   - title: Categories
     description: All categories
-    website: /categories
+    website: /en/categories
     icon: categories
   - title: Tags
     description: All Tags
-    website: /tags
+    website: /en/tags
     icon: tags
   - title: "Hiyoung'Blog"
     description: Hiyoung's Blog
     website: https://blog.hiyoung.xyz/
     image: https://cdn.jsdelivr.net/gh/hiyoung3937/img_hiyoung@master/bolg/bolg_icon.jpg
+  - title: "Lit Link"
+    description: More about me
+    website: https://lit.link/yexca
   - title: "VRChat Docs"
     description: The tutorial docs for the game VRChat
     website: https://vrchat.yexca.net/
