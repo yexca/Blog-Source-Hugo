@@ -15,8 +15,8 @@ tags:
 > | 曲 | リンク |
 > |:-- | :-- |
 > | 僕が死のうと思ったのは | この記事 |
-> | あくあ色ぱれっと | <https://blog.yexca.net/ja/archives/214> |
-> | 恋の押し売り | <https://blog.yexca.net/ja/archives/274>  |
+> | あくあ色ぱれっと | <https://blog.yexca.net/ja/archives/219> |
+> | 恋の押し売り | <https://blog.yexca.net/ja/archives/220>  |
 > | 17さいのうた | <https://blog.yexca.net/ja/archives/224> |
 
 ## まえがき

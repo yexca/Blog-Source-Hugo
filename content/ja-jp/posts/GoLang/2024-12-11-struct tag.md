@@ -1,37 +1,39 @@
 ---
 slug: 205
 # layout: post
-title: "GoLang 结构体标签"
+title: "GoLang 構造タグ"
 author: yexca
 date: 2024-12-11T18:31:18+08:00
 lastmod: 2025-01-28T21:04:18+09:00
 # permalink: /archives/205
 categories:
-    - 编程基础
-    - 编程语言
+    - プログラミングの基礎
+    - プログラミング言語
 tags:
     - Go
 --- 
 
-> **Golang Series**
+> この記事の一部は機械翻訳を使ってるよ
 >
-> Hello GoLang: <https://blog.yexca.net/archives/154>  
-> GoLang (var and const) 变量与常量: <https://blog.yexca.net/archives/155>  
-> GoLang (func) 函数: <https://blog.yexca.net/archives/156>  
-> GoLang (slice and map) 切片: <https://blog.yexca.net/archives/160>  
-> GoLang (OOP) 面向对象: <https://blog.yexca.net/archives/162>  
-> GoLang (reflect) 反射: <https://blog.yexca.net/archives/204>  
-> GoLang (struct tag) 结构体标签: 本文  
-> GoLang (goroutine) go 程: <https://blog.yexca.net/archives/206>  
-> GoLang (channel) 通道: <https://blog.yexca.net/archives/207>  
+> **Golang シリーズ**
+>
+> Hello GoLang: <https://blog.yexca.net/ja/archives/154>  
+> GoLang (var and const) 変数と定数: <https://blog.yexca.net/ja/archives/155>  
+> GoLang (func) 関数: <https://blog.yexca.net/ja/archives/156>  
+> GoLang (slice and map) スライス: <https://blog.yexca.net/ja/archives/160>  
+> GoLang (OOP) オブジェクト指向: <https://blog.yexca.net/ja/archives/162>  
+> GoLang (reflect) リフレクション: <https://blog.yexca.net/ja/archives/204>  
+> GoLang (struct tag) 構造タグ: この記事  
+> GoLang (goroutine) ゴルーチン: <https://blog.yexca.net/ja/archives/206>  
+> GoLang (channel) チャンネル: <https://blog.yexca.net/ja/archives/207>  
 
 ---
 
-通过结构体标签可以描述该类在某包的作用
+構造タグはパッケージ内のクラスの役割を記述するために使用できます。
 
-## 获取标签值
+## タグの値を取得する
 
-通过 ` 来定义 tag (markdown 代码块的键)
+tag を定義するには ` を使用します (markdown コードブロックのキー)
 
 ```go
 package main
@@ -42,7 +44,7 @@ import (
 )
 
 type User struct {
-    // 多个tag用空格隔离
+    // 複数の tag はスペースで区切られます
     name string `doc:"name" info:"nameOfUser"`
     age  int    `info:"ageOfUser"`
 }
@@ -64,7 +66,7 @@ func findTag(input interface{}) {
 }
 ```
 
-## JSON 转换
+## JSON 変換
 
 ```go
 package main
@@ -75,7 +77,7 @@ import (
 )
 
 type User struct {
-    // 注意要是公有属性才可转换json
+    // パブリックプロパティのみが JSON に変換できることに注意してください
     Name string `json:"name"`
     Age  int    `json:"age"`
 }

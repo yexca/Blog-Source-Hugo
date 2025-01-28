@@ -4,6 +4,7 @@ slug: 206
 title: "GoLang go 程"
 author: yexca
 date: 2024-12-17T21:16:31+08:00
+lastmod: 2025-01-28T21:11:18+09:00
 # permalink: /archives/206
 categories:
     - 编程基础
@@ -21,7 +22,7 @@ tags:
 > GoLang (OOP) 面向对象: <https://blog.yexca.net/archives/162>  
 > GoLang (reflect) 反射: <https://blog.yexca.net/archives/204>  
 > GoLang (struct tag) 结构体标签: <https://blog.yexca.net/archives/205>  
-> GoLang (goroutine) go 程: This Page  
+> GoLang (goroutine) go 程: 本文  
 > GoLang (channel) 通道: <https://blog.yexca.net/archives/207>  
 
 ---
@@ -34,34 +35,34 @@ Go 语言原生支持协程，叫 goroutine，Go 的并发通过 goroutine 和 c
 
 ## 创建 goroutine
 
-通过 `go` 关键字开启一个协程
+通过 `go` 关键字开启一个 goroutine
 
 ```go
 package main
 
 import (
-	"fmt"
-	"time"
+    "fmt"
+    "time"
 )
 
 func newTask() {
-	i := 0
-	for {
-		fmt.Println("newTask goroutine i =", i)
-		i++
-		time.Sleep(1 * time.Second)
-	}
+    i := 0
+    for {
+        fmt.Println("newTask goroutine i =", i)
+        i++
+        time.Sleep(1 * time.Second)
+    }
 }
 
 func main() {
-	go newTask()
+    go newTask()
 
-	i := 0
-	for {
-		fmt.Println("main goroutine i =", i)
-		i++
-		time.Sleep(1 * time.Second)
-	}
+    i := 0
+    for {
+        fmt.Println("main goroutine i =", i)
+        i++
+        time.Sleep(1 * time.Second)
+    }
 }
 ```
 
@@ -73,23 +74,23 @@ func main() {
 package main
 
 import (
-	"fmt"
-	"time"
+    "fmt"
+    "time"
 )
 
 func main() {
-	go func() {
-		defer fmt.Println("A.defer")
-		func() {
-			defer fmt.Println("B.defer")
+    go func() {
+        defer fmt.Println("A.defer")
+        func() {
+            defer fmt.Println("B.defer")
 
-			fmt.Println("B")
-		}() // 表示执行该匿名函数
+            fmt.Println("B")
+        }() // 表示执行该匿名函数
 
-		fmt.Println("A")
-	}()
+        fmt.Println("A")
+    }()
 
-	time.Sleep(2 * time.Second)
+    time.Sleep(2 * time.Second)
 }
 ```
 
@@ -99,16 +100,16 @@ func main() {
 package main
 
 import (
-	"fmt"
-	"time"
+    "fmt"
+    "time"
 )
 
 func main() {
-	go func(a, b int) {
-		fmt.Println("a =", a, "b =", b)
-	}(10, 20)
+    go func(a, b int) {
+        fmt.Println("a =", a, "b =", b)
+    }(10, 20)
 
-	time.Sleep(2 * time.Second)
+    time.Sleep(2 * time.Second)
 }
 ```
 
@@ -122,24 +123,24 @@ func main() {
 package main
 
 import (
-	"fmt"
-	"runtime"
-	"time"
+    "fmt"
+    "runtime"
+    "time"
 )
 
 func main() {
-	go func() {
-		defer fmt.Println("A.defer")
-		func() {
-			defer fmt.Println("B.defer")
-			runtime.Goexit() // 退出 goroutine
-			fmt.Println("B")
-		}() // 表示执行该匿名函数
+    go func() {
+        defer fmt.Println("A.defer")
+        func() {
+            defer fmt.Println("B.defer")
+            runtime.Goexit() // 退出 goroutine
+            fmt.Println("B")
+        }() // 表示执行该匿名函数
 
-		fmt.Println("A")
-	}()
+        fmt.Println("A")
+    }()
 
-	time.Sleep(2 * time.Second)
+    time.Sleep(2 * time.Second)
 }
 
 /*
@@ -148,4 +149,3 @@ func main() {
  * A.defer
  */
 ```
-

@@ -4,6 +4,7 @@ slug: 154
 title: 'Hello GoLang'
 author: yexca
 date: 2024-02-19T07:58:37+08:00
+lastmod: 2025-01-28T13:57:18+09:00
 # permalink: /archives/154
 categories:
     - 编程基础
@@ -12,9 +13,9 @@ tags:
     - Go
 ---
 
-> **Golang Series**
+> **Golang 系列**
 >
-> Hello GoLang: This Page  
+> Hello GoLang: 本文  
 > GoLang (var and const) 变量与常量: <https://blog.yexca.net/archives/155>  
 > GoLang (func) 函数: <https://blog.yexca.net/archives/156>  
 > GoLang (slice and map) 切片: <https://blog.yexca.net/archives/160>  
@@ -65,15 +66,15 @@ Go 的一些应用
 ## Hello Go
 
 ```go
-package main	// 定义包名
+package main // 定义包名
 /* 
  * 必须在源文件非注释第一行指明文件属于哪个包
  * main 表示一个可独立执行的程序，每个 Go 应用程序都包含一个名为 main 的包
  */
 
-import "fmt"	// 导入 fmt 包，实现了格式化 IO 的函数
+import "fmt" // 导入 fmt 包，实现了格式化 IO 的函数
 
-func main(){	// 函数
+func main(){ // 函数
     fmt.println("Hello Go")
 }
 ```

@@ -1,39 +1,41 @@
 ---
 slug: 155
 # layout: post
-title: 'GoLang 变量与常量'
+title: 'GoLang 変数と定数'
 author: yexca
 date: 2024-02-20T06:41:18+08:00
 lastmod: 2025-01-28T14:57:18+09:00
 # permalink: /archives/155
 categories:
-    - 编程基础
-    - 编程语言
+    - プログラミングの基礎
+    - プログラミング言語
 tags:
     - Go
 ---
 
-> **Golang 系列**
+> この記事の一部は機械翻訳を使ってるよ
 >
-> Hello GoLang: <https://blog.yexca.net/archives/154>  
-> GoLang (var and const) 变量与常量: 本文  
-> GoLang (func) 函数: <https://blog.yexca.net/archives/156>  
-> GoLang (slice and map) 切片: <https://blog.yexca.net/archives/160>  
-> GoLang (OOP) 面向对象: <https://blog.yexca.net/archives/162>  
-> GoLang (reflect) 反射: <https://blog.yexca.net/archives/204>  
-> GoLang (struct tag) 结构体标签: <https://blog.yexca.net/archives/205>  
-> GoLang (goroutine) go 程: <https://blog.yexca.net/archives/206>  
-> GoLang (channel) 通道: <https://blog.yexca.net/archives/207>  
+> **Golang シリーズ**
+>
+> Hello GoLang: <https://blog.yexca.net/ja/archives/154>  
+> GoLang (var and const) 変数と定数: この記事  
+> GoLang (func) 関数: <https://blog.yexca.net/archives/ja/156>  
+> GoLang (slice and map) スライス: <https://blog.yexca.net/ja/archives/160>  
+> GoLang (OOP) オブジェクト指向: <https://blog.yexca.net/ja/archives/162>  
+> GoLang (reflect) リフレクション: <https://blog.yexca.net/ja/archives/204>  
+> GoLang (struct tag) 構造タグ: <https://blog.yexca.net/ja/archives/205>  
+> GoLang (goroutine) ゴルーチン: <https://blog.yexca.net/ja/archives/206>  
+> GoLang (channel) チャンネル: <https://blog.yexca.net/ja/archives/207>  
 
-## 变量
+## 変数
 
-声明变量一般使用 var 关键字
+変数は通常 var キーワードを使用して宣言されます
 
-### 单变量
+### 単一変数
 
-* 定义类型
+* タイプを定義する
 
-不指定初始值的声明，默认为 0
+初期値が指定されていない場合、デフォルトは 0 です。
 
 ```go
 package main
@@ -46,7 +48,7 @@ func main() {
 }
 ```
 
-指定初始值，a 为 100
+初期値を指定します。a は 100 です。
 
 ```go
 package main
@@ -59,9 +61,9 @@ func main() {
 }
 ```
 
-* 省略类型
+* 省略タイプ
 
-在声明时不知道类型的话，Go 会自动判断变量类型
+宣言時に型がわからない場合、Go は変数の型を自動的に決定します。
 
 ```go
 package main
@@ -80,7 +82,7 @@ func main() {
 
 * :=
 
-基于省略类型会自动判断，可以使用 := 直接声明变量
+省略に応じて型が自動的に決定され、:= を使用して変数を直接宣言できます。
 
 ```go
 package main
@@ -97,29 +99,15 @@ func main() {
 }
 
 /*
- * 输出
+ * 出力
  * p = 3.14
  * Type of p is float64
  */
 ```
 
-### 多变量
+### 多変量
 
-* 相同类型
-
-```go
-package main
-
-import "fmt"
-
-func main() {
-    var a, b int
-    fmt.Println("a =", a)
-    fmt.Println("b =", b)
-}
-```
-
-* 相同类型赋值
+* 同じタイプ
 
 ```go
 package main
@@ -127,13 +115,27 @@ package main
 import "fmt"
 
 func main() {
-    var a, b int = 100, 200
-    fmt.Println("a =", a)
-    fmt.Println("b =", b)
+   var a, b int
+   fmt.Println("a =", a)
+   fmt.Println("b =", b)
 }
 ```
 
-* 不同类型 1
+* 同じタイプの割り当て
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+   var a, b int = 100, 200
+   fmt.Println("a =", a)
+   fmt.Println("b =", b)
+}
+```
+
+* 異なるタイプ 1
 
 ```go
 package main
@@ -152,7 +154,7 @@ func main() {
 }
 
 /*
- * 输出
+ * 出力
  * a = 100
  * Type of a is int
  * b = 3.14
@@ -160,7 +162,7 @@ func main() {
  */
 ```
 
-* 不同类型 2
+* 異なるタイプ 2
 
 ```go
 package main
@@ -179,13 +181,13 @@ func main() {
 }
 ```
 
-> 字符串类型在 go 里是个结构，包含指向底层数组的指针和长度，这两部分每部分都是 8 个字节，所以字符串类型大小为 16 个字节
+> Go の文字列型は、基になる配列へのポインタと長さを含む構造体です。これら 2 つの部分はそれぞれ 8 バイトなので、文字列型のサイズは 16 バイトになります。
 >
-> 可以使用 unsafe.Sizeof() 函数查看类型占用
+> unsafe.Sizeof()関数を使用して、タイプ占有率が見られます。
 
-### 全局变量
+### グローバル変数
 
-全局变量的声明不能使用 :=
+グローバル変数は := を使用して宣言することはできません
 
 ```go
 package main
@@ -205,7 +207,7 @@ func main() {
 }
 ```
 
-或者使用分解的写法，这种写法一般用于全局变量
+または、グローバル変数に一般的に使用される分解を使用します。
 
 ```go
 package main
@@ -228,11 +230,11 @@ func main() {
 }
 ```
 
-## 常量
+## 定数
 
-常量一般用 const 关键字定义
+定数は通常、const キーワードを使用して定義されます。
 
-### 定义
+### 定義
 
 ```go
 package main
@@ -245,7 +247,7 @@ func main() {
 }
 ```
 
-也可以省略类型
+タイプを省略することもできます
 
 ```go
 package main
@@ -258,9 +260,9 @@ func main() {
 }
 ```
 
-### 枚举
+### 列挙
 
-常量定义可以用于枚举
+定数定義は列挙に使用できる
 
 ```go
 package main
@@ -274,9 +276,9 @@ func main() {
 }
 ```
 
-### iota 自增长
+### iota 自己増加
 
-上述枚举以 0 开始递增，可以使用 iota 代替
+上記の列挙は 0 から始まり、増分で増加します。代わりに iota を使用できます。
 
 ```go
 package main
@@ -294,4 +296,4 @@ func main() {
 }
 ```
 
-> iota 可以用于表达式，但一般用于自增
+> iota は式の中で使用できますが、通常は自動増分に使用されます

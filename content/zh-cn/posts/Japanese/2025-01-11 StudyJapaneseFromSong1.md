@@ -15,7 +15,7 @@ tags:
 > | 歌曲名 | 翻译 | 链接 |
 > |:-- | :-- | :--|
 > | 僕が死のうと思ったのは | 曾经我也想过一了百了 | 本文 |
-> | あくあ色ぱれっと | aqua 的调色盘 | <https://blog.yexca.net/archives/214> |
+> | あくあ色ぱれっと | aqua 的调色盘 | <https://blog.yexca.net/archives/219> |
 > | 恋の押し売り | 恋爱推销 | <https://blog.yexca.net/archives/220> |
 > | 17さいのうた | 17 岁的歌 | <https://blog.yexca.net/archives/224> |
 
