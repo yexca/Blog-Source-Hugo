@@ -11,6 +11,13 @@ tags:
     - SpringCloud
 ---
 
+> **Elasticsearch 系列**
+>
+> | 内容                   | 链接                                  |
+> | :--------------------- | :------------------------------------ |
+> | Elasticsearch 基础操作 | 本文                                  |
+> | Elasticsearch 查询操作 | <https://blog.yexca.net/archives/227> |
+
 Elasticsearch 是一款非常强大的开源搜索引擎，可以帮助我们从海量数据中快速找到需要的内容。结合 kibana、Logstash、Beats，也就是 elastic stack (ELK)。被广泛应用在日志数据分析、实时监控等领域
 
 而 Elasticsearch 是 Elastic Stack 的核心，负责存储、搜索、分析数据
