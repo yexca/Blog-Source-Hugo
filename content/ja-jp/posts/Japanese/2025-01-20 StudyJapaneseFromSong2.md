@@ -4,6 +4,7 @@ title: '歌から日本語を学ぼう - 《あくあ色ぱれっと》'
 # draft: true
 author: yexca
 date: '2025-01-20T00:16:48+09:00'
+lastmod: '2025-02-06T22:06:10+09:00'
 categories:
     - 日常
 tags:
@@ -18,6 +19,7 @@ tags:
 > | あくあ色ぱれっと | この記事 |
 > | 恋の押し売り | <https://blog.yexca.net/ja/archives/220>  |
 > | 17さいのうた | <https://blog.yexca.net/ja/archives/224> |
+> | drop | <https://blog.yexca.net/ja/archives/230> |
 
 ## まえがき
 

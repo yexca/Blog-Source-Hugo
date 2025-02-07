@@ -4,6 +4,7 @@ title: '歌から日本語を学ぼう - 《17さいのうた》'
 # draft: true
 author: yexca
 date: '2025-01-25T16:57:49+09:00'
+lastmod: '2025-02-06T22:06:10+09:00'
 categories:
     - 日常
 tags:
@@ -18,6 +19,7 @@ tags:
 > | あくあ色ぱれっと | <https://blog.yexca.net/ja/archives/219> |
 > | 恋の押し売り | <https://blog.yexca.net/ja/archives/220> |
 > | 17さいのうた | この記事 |
+> | drop | <https://blog.yexca.net/ja/archives/230> |
 
 ## まえがき
 

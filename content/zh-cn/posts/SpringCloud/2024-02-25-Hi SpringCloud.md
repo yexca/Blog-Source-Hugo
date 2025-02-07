@@ -4,6 +4,7 @@ slug: 158
 title: 'Hi SpringCloud'
 author: yexca
 date: 2024-02-25T17:56:54+08:00
+lastmod: 2025-02-05T17:13:54+09:00
 # permalink: /archives/158
 categories:
     - 后端
@@ -46,7 +47,7 @@ tags:
 |                | Dubbo               | SpringCloud               | SpringCloudAlibaba        |
 | -------------- | ------------------- | ------------------------- | ------------------------- |
 | 注册中心       | zookeeper、 Redis   | Eureka、 Consul           | Nacos、 Eureka            |
-| 服务远程调用   | Dubbo协议           | Feign (http协议)          | Dubbo、Feign              |
+| 服务远程调用   | Dubbo 协议           | Feign (http 协议)          | Dubbo、Feign              |
 | 配置中心       | 无                  | SpringCloudConfig         | SpringCloudConfig、 Nacos |
 | 服务网关       | 无                  | SpringCloudGateway、 Zuul | SpringCloudGateway、 Zuul |
 | 服务监控和保护 | dubbo-admin，功能弱 | Hystix                    | Sentinel                  |
@@ -72,7 +73,7 @@ SpringCloud 是目前使用最广泛的微服务框架。集成了各种微服�
 
 ## 微服务调用
 
-需求：根据订单id查询订单的同时，把订单所属的用户信息一起返回
+需求：根据订单 id 查询订单的同时，把订单所属的用户信息一起返回
 
 ### 注册 RestTemplate
 
@@ -99,7 +100,7 @@ public class OrderService {
         Order order = orderMapper.findById(orderId);
         // 2.查询用户
         String url = "http://localhost:8081/user/" + order.getUserId();
-        	// RestTemplate的GET方法
+        // RestTemplate的GET方法
         User user = restTemplate.getForObject(url, User.class);
         // 3.封装用户信息
         order.setUser(user);

@@ -18,6 +18,7 @@ tags:
 > | あくあ色ぱれっと | aqua 的调色盘 | <https://blog.yexca.net/archives/219> |
 > | 恋の押し売り | 恋爱推销 | <https://blog.yexca.net/archives/220> |
 > | 17さいのうた | 17 岁的歌 | 本文 |
+> | drop | 坠入爱河? | <https://blog.yexca.net/archives/230> |
 
 ## 引言
 
@@ -31,7 +32,7 @@ tags:
 
 ## 歌曲视频
 
-{{< bilibili BV1XB4y1X7yQ >}}
+{{< youtube TLvMXOEXi_k >}}
 
 ## 歌词
 

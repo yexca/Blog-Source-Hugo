@@ -18,6 +18,7 @@ tags:
 > | Elasticsearch 基础操作 | <https://blog.yexca.net/archives/226> |
 > | Elasticsearch 查询操作 | <https://blog.yexca.net/archives/227> |
 > | RestClient 基础操作 | 本文 |
+> | RestClient 查询操作 | <https://blog.yexca.net/archives/229> |
 
 ES 官方提供了各种不同语言的客户端，用来操作 ES，这些客户端的本质就是组装 DSL 语句，通过 HTTP 请求发送给 ES
 

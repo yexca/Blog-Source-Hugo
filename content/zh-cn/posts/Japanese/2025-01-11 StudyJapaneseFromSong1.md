@@ -18,6 +18,7 @@ tags:
 > | あくあ色ぱれっと | aqua 的调色盘 | <https://blog.yexca.net/archives/219> |
 > | 恋の押し売り | 恋爱推销 | <https://blog.yexca.net/archives/220> |
 > | 17さいのうた | 17 岁的歌 | <https://blog.yexca.net/archives/224> |
+> | drop | 坠入爱河? | <https://blog.yexca.net/archives/230> |
 
 ## 引言
 
