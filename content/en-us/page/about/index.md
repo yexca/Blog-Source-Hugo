@@ -19,7 +19,7 @@ menu:
 
 > This page uses machine translation ( ¯\_(ツ)_/¯)
 
-Hello there! I'm [yexca /jɛkɑ/](https://lit.link/yexca)
+Hi there! I'm [yexca /jɛkɑ/](https://lit.link/yexca)
 
 ## Where?
 
@@ -79,4 +79,4 @@ Here’s to staying curious and exploring endless possibilities!
 
 ## Want More?  
 
-Check out <https://lit.link/yexca> (though it’s been ages since I last updated it (Currently only in Simplified Chinese))!
+Check out <https://lit.link/yexca> ~~(though it’s been ages since I last updated it (Currently only in Simplified Chinese))~~ now it updated

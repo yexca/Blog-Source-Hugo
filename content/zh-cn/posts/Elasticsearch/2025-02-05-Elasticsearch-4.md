@@ -19,6 +19,7 @@ tags:
 > | Elasticsearch 查询操作 | <https://blog.yexca.net/archives/227> |
 > | RestClient 基础操作 | <https://blog.yexca.net/archives/228> |
 > | RestClient 查询操作 | 本文 |
+> | Elasticsearch 数据聚合 | <https://blog.yexca.net/archives/231> |
 
 文档的查询同样使用 RestHighLevelClient 对象
 

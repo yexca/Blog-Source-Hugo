@@ -19,6 +19,7 @@ tags:
 > | Elasticsearch 查询操作 | 本文 |
 > | RestClient 基础操作 | <https://blog.yexca.net/archives/228> |
 > | RestClient 查询操作 | <https://blog.yexca.net/archives/229> |
+> | Elasticsearch 数据聚合 | <https://blog.yexca.net/archives/231> |
 
 上篇文章主要为 es 的数据存储功能，但 es 最擅长的还是搜索和数据分析
 
