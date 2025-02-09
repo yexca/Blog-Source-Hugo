@@ -4,6 +4,7 @@ title: '从歌曲学日语 - 《あくあ色ぱれっと》'
 # draft: true
 author: yexca
 date: '2025-01-20T00:16:48+09:00'
+lastmod: '2025-02-08T16:39:49+09:00'
 categories:
     - 日常
 tags:
@@ -36,9 +37,15 @@ tags:
 
 最后捏，我也想染上 aqua 的色彩捏，毕竟是我最爱的三个人之一 ~~（C105 没买到立牌真可惜了，结城的也没买到（悲~~
 
+> 2025.01.27 唱了这首歌，唱的时候就想到了 aqua 翻唱的 [誇り高きアイドル](https://youtu.be/2pYaIr-4pfA?si=f_TOhWLWPntx_x2K)，体验还是很奇妙的
+>
+> ![image](https://github.com/yexca/picx-images-hosting/raw/master/2025/02-JapaneseSong/photo_1_2025-02-08_16-28-24.175i4h7yfd.webp)
+
 ## 歌曲视频
 
-{{< bilibili BV1AV411Y7mZ >}}
+由于 bilibili 的嵌入式体验不好，改为 Youtube 的，可访问搬运组账户，本歌曲视频: `BV1AV411Y7mZ`
+
+{{< youtube 6bnaBnd4kyU >}}
 
 ## 歌词
 

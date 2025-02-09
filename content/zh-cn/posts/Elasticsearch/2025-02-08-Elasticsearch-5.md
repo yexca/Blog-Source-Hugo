@@ -4,6 +4,7 @@ title: 'Elasticsearch 数据聚合'
 # draft: true
 author: yexca
 date: '2025-02-08T14:56:36+09:00'
+lastmod: '2025-02-09T17:29:28+09:00'
 categories:
     - 后端
     - Spring
@@ -20,6 +21,7 @@ tags:
 > | RestClient 基础操作 | <https://blog.yexca.net/archives/228> |
 > | RestClient 查询操作 | <https://blog.yexca.net/archives/229> |
 > | Elasticsearch 数据聚合 | 本文 |
+> | Elasticsearch 自动补全 | <https://blog.yexca.net/archives/232> |
 
 [聚合 (aggregations)](https://www.elastic.co/guide/en/elasticsearch/reference/current/search-aggregations.html) 可以让我们极其方便地实现对数据的统计、分析、运算。例如：
 

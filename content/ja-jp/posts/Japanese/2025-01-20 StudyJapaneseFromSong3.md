@@ -4,7 +4,7 @@ title: '歌から日本語を学ぼう - 《恋の押し売り》'
 # draft: true
 author: yexca
 date: '2025-01-20T16:24:43+09:00'
-lastmod: '2025-02-06T22:06:10+09:00'
+lastmod: '2025-02-08T16:39:49+09:00'
 categories:
     - 日常
 tags:
@@ -24,6 +24,10 @@ tags:
 ## まえがき
 
 甘い曲だよねー
+
+> 2025年01月27日歌った、めっちゃ可愛かった！！！
+>
+> ![image](https://github.com/yexca/picx-images-hosting/raw/master/2025/02-JapaneseSong/photo_1_2025-02-08_16-19-06.8addk364ib.webp)
 
 ## 動画
 

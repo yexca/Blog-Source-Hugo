@@ -4,6 +4,7 @@ title: 'Elasticsearch RestClient 入门'
 # draft: true
 author: yexca
 date: '2025-02-03T22:30:00+09:00'
+lastmod: '2025-02-09T17:29:28+09:00'
 categories:
     - 后端
     - Spring
@@ -20,6 +21,7 @@ tags:
 > | RestClient 基础操作 | 本文 |
 > | RestClient 查询操作 | <https://blog.yexca.net/archives/229> |
 > | Elasticsearch 数据聚合 | <https://blog.yexca.net/archives/231> |
+> | Elasticsearch 自动补全 | <https://blog.yexca.net/archives/232> |
 
 ES 官方提供了各种不同语言的客户端，用来操作 ES，这些客户端的本质就是组装 DSL 语句，通过 HTTP 请求发送给 ES
 

@@ -4,6 +4,7 @@ title: '从歌曲学日语 - 《僕が死のうと思ったのは》'
 # draft: true
 author: yexca
 date: '2025-01-11T01:10:51+09:00'
+lastmod: '2025-02-08T16:39:49+09:00'
 categories:
     - 日常
 tags:
@@ -30,7 +31,9 @@ tags:
 
 ## 歌曲视频
 
-{{< bilibili BV1zr4y1n7sM >}}
+由于 bilibili 的嵌入式体验不好，改为 Youtube 的，鹿乃 有官方账户，本歌曲视频: `BV1zr4y1n7sM`
+
+{{< youtube V5Uo57bIK6I >}}
 
 ## 歌词
 

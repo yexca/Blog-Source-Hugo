@@ -4,7 +4,7 @@ title: '歌から日本語を学ぼう - 《あくあ色ぱれっと》'
 # draft: true
 author: yexca
 date: '2025-01-20T00:16:48+09:00'
-lastmod: '2025-02-06T22:06:10+09:00'
+lastmod: '2025-02-08T16:39:49+09:00'
 categories:
     - 日常
 tags:
@@ -24,6 +24,10 @@ tags:
 ## まえがき
 
 また歌詞だけ書こう、次回何か日本語で感想を書くほうがいいかな。
+
+> 2025年01月27日、この曲を歌った、その時湊あくあが歌った[誇り高きアイドル](https://youtu.be/2pYaIr-4pfA?si=f_TOhWLWPntx_x2K)を思い出した、とっても楽しかった。私もあくあ色に染まられたかもXD
+>
+> ![image](https://github.com/yexca/picx-images-hosting/raw/master/2025/02-JapaneseSong/photo_1_2025-02-08_16-28-24.175i4h7yfd.webp)
 
 ## 動画
 

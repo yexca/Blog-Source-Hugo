@@ -4,6 +4,7 @@ title: '从歌曲学日语 - 《恋の押し売り》'
 # draft: true
 author: yexca
 date: '2025-01-20T16:24:43+09:00'
+lastmod: '2025-02-08T16:39:49+09:00'
 categories:
     - 日常
 tags:
@@ -24,9 +25,15 @@ tags:
 
 实际上早就翻译了捏~(￣▽￣)~*
 
+> 2025.01.27 唱了这首歌，简直太可爱啦！！！
+>
+> ![image](https://github.com/yexca/picx-images-hosting/raw/master/2025/02-JapaneseSong/photo_1_2025-02-08_16-19-06.8addk364ib.webp)
+
 ## 歌曲视频
 
-{{< bilibili BV1dk4y1a7RX >}}
+由于 bilibili 的嵌入式体验不好，改为 Youtube 的，星川サラ 有官方账户，本歌曲视频: `BV1dk4y1a7RX`
+
+{{< youtube dOyCBUJeePM >}}
 
 ## 歌词
 
