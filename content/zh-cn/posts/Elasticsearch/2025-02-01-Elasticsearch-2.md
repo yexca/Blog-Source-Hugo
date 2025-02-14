@@ -4,7 +4,7 @@ title: 'Elasticsearch 查询'
 # draft: true
 author: yexca
 date: '2025-02-01T15:16:28+09:00'
-lastmod: '2025-02-09T17:29:28+09:00'
+lastmod: '2025-02-14T20:36:55+09:00'
 categories:
     - 后端
     - Spring
@@ -22,6 +22,7 @@ tags:
 > | RestClient 查询操作 | <https://blog.yexca.net/archives/229> |
 > | Elasticsearch 数据聚合 | <https://blog.yexca.net/archives/231> |
 > | Elasticsearch 自动补全 | <https://blog.yexca.net/archives/232> |
+> | Elasticsearch 数据同步 | <https://blog.yexca.net/archives/234> |
 
 上篇文章主要为 es 的数据存储功能，但 es 最擅长的还是搜索和数据分析
 

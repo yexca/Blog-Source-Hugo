@@ -4,6 +4,7 @@ title: 'Elasticsearch 自动补全'
 # draft: true
 author: yexca
 date: '2025-02-09T17:29:28+09:00'
+lastmod: '2025-02-14T20:36:55+09:00'
 categories:
     - 后端
     - Spring
@@ -21,6 +22,7 @@ tags:
 > | RestClient 查询操作 | <https://blog.yexca.net/archives/229> |
 > | Elasticsearch 数据聚合 | <https://blog.yexca.net/archives/231> |
 > | Elasticsearch 自动补全 | 本文 |
+> | Elasticsearch 数据同步 | <https://blog.yexca.net/archives/234> |
 
 当用户在搜索框输入字符时，应提示与该字符有关的搜索项，根据输入的字母提供完整词条功能，就是自动补全
 
