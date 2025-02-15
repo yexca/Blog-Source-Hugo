@@ -4,6 +4,7 @@ title: 'Elasticsearch 数据同步'
 # draft: true
 author: yexca
 date: '2025-02-14T20:36:55+09:00'
+lastmod: '2025-02-15T17:17:08+09:00'
 categories:
     - 后端
     - Spring
@@ -22,6 +23,7 @@ tags:
 > | Elasticsearch 数据聚合 | <https://blog.yexca.net/archives/231> |
 > | Elasticsearch 自动补全 | <https://blog.yexca.net/archives/232> |
 > | Elasticsearch 数据同步 | 本文 |
+> | Elasticsearch 集群 | <https://blog.yexca.net/archives/235> |
 
 es 的数据来自 MySQL 数据库，因此 MySQL 数据发送改变时，es 也必须跟着改变，此为 es 与 MySQL 之间的数据同步
 

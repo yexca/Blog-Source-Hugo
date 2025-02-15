@@ -4,7 +4,7 @@ title: 'Elasticsearch RestClient 查询'
 # draft: true
 author: yexca
 date: '2025-02-05T15:50:26+09:00'
-lastmod: '2025-02-14T20:36:55+09:00'
+lastmod: '2025-02-15T17:17:08+09:00'
 categories:
     - 后端
     - Spring
@@ -23,6 +23,7 @@ tags:
 > | Elasticsearch 数据聚合 | <https://blog.yexca.net/archives/231> |
 > | Elasticsearch 自动补全 | <https://blog.yexca.net/archives/232> |
 > | Elasticsearch 数据同步 | <https://blog.yexca.net/archives/234> |
+> | Elasticsearch 集群 | <https://blog.yexca.net/archives/235> |
 
 文档的查询同样使用 RestHighLevelClient 对象
 
