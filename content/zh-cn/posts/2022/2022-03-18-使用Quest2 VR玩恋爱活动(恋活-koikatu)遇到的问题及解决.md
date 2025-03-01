@@ -205,3 +205,5 @@ Oculus Link 需使用能够支持数据和电源连接的优质 USB 数据线。
 [Oculus 客户端在 Win10 上面无法安装或者登陆的解决方法_国韵的博客 - CSDN 博客_oculus 无法连接服务器](https://blog.csdn.net/mo_qi_qi/article/details/83795668)
 
 [中国移动的日文](http://www.ichacha.net/jp/中国移动.html) ~~(别问我为什么会参考这个，问就是不会日语)~~
+
+![yexca-30](https://count.getloli.com/@yexca-30)

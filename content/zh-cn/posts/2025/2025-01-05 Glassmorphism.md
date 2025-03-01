@@ -4,6 +4,7 @@ title: '毛玻璃效果'
 # draft: true
 author: yexca
 date: '2025-01-05T16:19:36+09:00'
+lastmod: '2025-02-26T22:40:36+09:00'
 categories:
     - 前端
 ---
@@ -52,6 +53,8 @@ body{
 项目地址: <https://github.com/yexca/MusicPlayer-Twinkle>
 
 顺便更新了下之前的文章 <https://blog.yexca.net/archives/116/> 用此方法加了个示例: <https://twinkle.yexca.net>
+
+2025-02-26: 我翻到当时是参考哪里啦: <https://blog.csdn.net/Wang_x_y_/article/details/123693127>
 
 ## 卡片效果
 
