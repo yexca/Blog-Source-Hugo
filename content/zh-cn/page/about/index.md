@@ -80,3 +80,5 @@ Wow~ ⊙o⊙
 ## 还想看更多？
 
 或许可以去看看 <https://lit.link/yexca> ？~~(虽然好久没更新了)~~
+
+![yexca-about](https://count.getloli.com/@yexca-about)
