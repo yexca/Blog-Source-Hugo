@@ -82,3 +82,5 @@ Wow~ ⊙o⊙
 ## 還想看更多？
 
 或許可以去看看 <https://lit.link/yexca> ？~~(雖然好久沒更新了 (現在只有簡體中文))~~
+
+![yexca-about-zh-tw](https://count.getloli.com/@yexca-about-zh-tw)

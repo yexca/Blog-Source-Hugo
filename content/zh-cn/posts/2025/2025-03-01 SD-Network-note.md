@@ -4,6 +4,7 @@ title: '软件设计师 - 计算机网络部分笔记'
 # draft: true
 author: yexca
 date: '2025-03-01T23:28:30+09:00'
+lastmod: '2025-03-04T18:38:28+09:00'
 categories:
     - 考试
     - 软考
@@ -201,5 +202,7 @@ Windows Server 2003 的路由类型有 5 种。当 Windows 服务器收到一个
 ![路由来源的管理距离](https://cdn.jsdelivr.net/gh/yexca/picx-images-hosting@master/2023/04-计算机网络/路由来源的管理距离.4p9ushdq8ho0.webp)
 
 如果路由器收到了由多个路由协议转发的、关于某个目标的多条路由，则比较各个路由的管理距离，并采用管理距离小的路由来源提供的路由信息
+
+---
 
 ![yexca-236](https://count.getloli.com/@yexca-236)

@@ -80,3 +80,5 @@ Here’s to staying curious and exploring endless possibilities!
 ## Want More?  
 
 Check out <https://lit.link/yexca> ~~(though it’s been ages since I last updated it (Currently only in Simplified Chinese))~~ now it updated
+
+![yexca-about-en-us](https://count.getloli.com/@yexca-about-en-us)

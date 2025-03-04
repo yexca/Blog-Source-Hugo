@@ -3,7 +3,7 @@ title: 关于
 slug: /about
 # description: Hugo, the world's fastest framework for building websites
 date: '2021-11-04T20:20:20+08:00'
-lastmod: '2025-02-09T17:43:16+09:00'
+lastmod: '2025-03-04T18:42:16+09:00'
 aliases:
   - about-us
   - about-hugo
@@ -80,5 +80,9 @@ Wow~ ⊙o⊙
 ## 还想看更多？
 
 或许可以去看看 <https://lit.link/yexca> ？~~(虽然好久没更新了)~~
+
+---
+
+从 2025-02-28 开始，该页面访问人数
 
 ![yexca-about](https://count.getloli.com/@yexca-about)
