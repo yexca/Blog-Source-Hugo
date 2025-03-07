@@ -53,7 +53,7 @@ languages:
     weight: 4
     params:
       sidebar:
-        subtitle: "この世で道が尽きることなく、行きたいと望めば、道は足元に広がっている"
+        subtitle: "この世で道が尽きることはなく、行きたいと望む心があれば、道は必ず足元に広がる"
 
 pagination:
     pagerSize: 10

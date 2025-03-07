@@ -4,22 +4,25 @@ title: '从歌曲学日语 - 《17さいのうた》'
 # draft: true
 author: yexca
 date: '2025-01-25T16:57:49+09:00'
-lastmod: '2025-02-08T16:39:49+09:00'
+lastmod: '2025-03-07T20:41:31+09:00'
 categories:
     - 日常
 tags:
     - 日语
 ---
 
-> **日语歌曲系列**
->
-> | 歌曲名 | 翻译 | 链接 |
-> |:-- | :-- | :--|
-> | 僕が死のうと思ったのは | 曾经我也想过一了百了 | <https://blog.yexca.net/archives/214> |
-> | あくあ色ぱれっと | aqua 的调色盘 | <https://blog.yexca.net/archives/219> |
-> | 恋の押し売り | 恋爱推销 | <https://blog.yexca.net/archives/220> |
-> | 17さいのうた | 17 岁的歌 | 本文 |
-> | drop | 坠入爱河? | <https://blog.yexca.net/archives/230> |
+{{< details "日语歌曲系列" >}}
+
+| 歌曲名 | 翻译 | 链接 |
+|:-- | :-- | :--|
+| 僕が死のうと思ったのは | 曾经我也想过一了百了 | <https://blog.yexca.net/archives/214> |
+| あくあ色ぱれっと | aqua 的调色盘 | <https://blog.yexca.net/archives/219> |
+| 恋の押し売り | 恋爱推销 | <https://blog.yexca.net/archives/220> |
+| 17さいのうた | 17 岁的歌 | 本文 |
+| drop | 坠入爱河? | <https://blog.yexca.net/archives/230> |
+| 生きるを選んだ私へ | 致选择活下去的自己 | <https://blog.yexca.net/archives/239> |
+
+{{< /details >}}
 
 ## 引言
 
