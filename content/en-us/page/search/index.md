@@ -1,5 +1,5 @@
 ---
-title: "search"
+title: "Search"
 slug: "search"
 date: '2021-11-04T20:20:20+08:00'
 layout: "search"
