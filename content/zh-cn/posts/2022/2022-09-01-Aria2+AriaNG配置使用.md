@@ -8,10 +8,10 @@ author: hiyoung
 views:
     - '1737'
 categories:
-    - 软件工具
-    - 娱乐相关
+    - 折腾经验
 tags:
     - Aria2
+    - 下载工具
 ---
 
 > 该文章由 [Hiyoung](https://blog.hiyoung.xyz/) 编写

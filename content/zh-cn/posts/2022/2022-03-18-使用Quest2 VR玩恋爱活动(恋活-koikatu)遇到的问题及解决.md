@@ -9,9 +9,10 @@ author: yexca
 views:
     - '7351'
 categories:
-    - 日常
+    - 折腾经验
 tags:
     - Game
+    - VR
 ---
 
 ## 引言

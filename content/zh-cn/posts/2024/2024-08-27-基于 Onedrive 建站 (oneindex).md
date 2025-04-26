@@ -6,8 +6,10 @@ author: yexca
 date: 2024-08-27T11:00:24+08:00
 # permalink: /archives/180
 categories:
-    - 日常
-    - 网站建设
+    - 开发实践
+tags:
+    - OneDrive
+    - 建站实践
 ---  
 
 文章写于 2022.05.09，文章并无最新适配，可能无法复现。另推荐使用较新的项目

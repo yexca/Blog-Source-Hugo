@@ -8,8 +8,9 @@ author: yexca
 views:
     - '260'
 categories:
-    - Linux
-    - LinuxStudy
+    - 技术学习
+tags:
+    - Arch Linux
 ---
 
 ## 引言

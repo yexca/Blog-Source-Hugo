@@ -9,8 +9,7 @@ author: yexca
 views:
     - '436'
 categories:
-    - 软件工具
-    - 编码相关
+    - 技术学习
 tags:
     - Markdown
 ---

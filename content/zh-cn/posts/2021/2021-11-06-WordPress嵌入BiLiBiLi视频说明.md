@@ -7,7 +7,7 @@ author: yexca
 views:
     - '201'
 categories:
-    - 网站建设
+    - 开发实践
 tags:
     - WordPress
 ---

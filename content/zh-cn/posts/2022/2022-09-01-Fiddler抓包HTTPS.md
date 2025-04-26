@@ -8,10 +8,9 @@ author: yexca
 views:
     - '181'
 categories:
-    - 软件工具
-    - 编码相关
+    - 技术学习
 tags:
-    - HTTP
+    - Fiddler
 ---
 
 ## 引言

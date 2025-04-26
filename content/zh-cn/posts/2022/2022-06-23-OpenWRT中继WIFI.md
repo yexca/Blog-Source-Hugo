@@ -8,7 +8,7 @@ author: yexca
 views:
     - '256'
 categories:
-    - 日常
+    - 折腾经验
 tags:
     - OpenWRT
 ---

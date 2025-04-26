@@ -8,10 +8,10 @@ author: yexca
 views:
     - '1092'
 categories:
-    - 日常
+    - 折腾经验
 tags:
     - AI
-    - Python
+    - NovelAI
 ---
 
 使用 Windows11 部署，其他系统 (如 Linux ) 请参考：[AUTOMATIC1111/stable-diffusion-webui: Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui#automatic-installation-on-linux)

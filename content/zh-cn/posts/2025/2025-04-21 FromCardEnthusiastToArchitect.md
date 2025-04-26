@@ -5,7 +5,6 @@ title: '从卡粉到架构师：生活中的系统设计哲学'
 author: yexca
 date: '2025-04-22T00:35:15+09:00'
 categories:
-    - 日常
     - 生活哲学
 tags:
     - 生活架构研究所

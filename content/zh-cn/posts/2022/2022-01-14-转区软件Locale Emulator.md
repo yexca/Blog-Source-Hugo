@@ -1,6 +1,6 @@
 ---
 slug: 20
-title: '转区软件Locale Emulator'
+title: '转区软件 Locale Emulator'
 date: '2022-01-14T15:53:40+08:00'
 author: yexca
 # layout: post
@@ -8,8 +8,9 @@ author: yexca
 views:
     - '251'
 categories:
-    - 软件工具
-    - 娱乐相关
+    - 折腾经验
+tags:
+    - Locale Emulator
 ---
 
 ## 前言

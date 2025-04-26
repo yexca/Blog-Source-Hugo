@@ -5,11 +5,10 @@ title: 'Spring AOP(面向切面编程)'
 author: yexca
 date: '2025-01-21T16:05:57+09:00'
 categories:
-    - 后端
-    - Spring
+    - 技术学习
 tags:
+    - 后端技术
     - SpringBoot
-    - JavaWeb
 ---
 
 Aspect Oriented Programming (面向切面编程、面向方面编程) 是面向特定方法编程

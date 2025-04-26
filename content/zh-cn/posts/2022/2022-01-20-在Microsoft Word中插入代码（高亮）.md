@@ -1,6 +1,6 @@
 ---
 slug: 21
-title: '在Microsoft Word中插入代码（高亮）'
+title: '在 Microsoft Word 中插入代码（高亮）'
 date: '2022-01-20T14:28:52+08:00'
 author: yexca
 # layout: post
@@ -8,8 +8,9 @@ author: yexca
 views:
     - '285'
 categories:
-    - 软件工具
-    - 工具网站
+    - 折腾经验
+tags:
+    - Word
 ---
 
 ## 引言(废话)

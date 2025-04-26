@@ -5,7 +5,7 @@ title: 'Pixiv 下载器'
 author: yexca
 date: '2025-01-03T20:05:44+09:00'
 categories:
-    - 日常
+    - 开发实践
 tags:
     - Pixiv
     - Python

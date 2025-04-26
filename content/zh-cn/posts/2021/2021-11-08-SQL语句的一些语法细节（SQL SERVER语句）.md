@@ -8,7 +8,8 @@ author: hiyoung
 views:
     - '183'
 categories:
-    - 编程基础
+    - 技术学习
+tags:
     - 数据库
 ---
 

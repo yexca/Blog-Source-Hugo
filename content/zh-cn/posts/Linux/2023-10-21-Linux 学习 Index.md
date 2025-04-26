@@ -6,9 +6,9 @@ author: yexca
 date: 2023-10-21T14:18:15+08:00
 # permalink: /archives/129
 categories:
-    - Linux
-    - LinuxStudy
+    - 技术学习
 tags:
+    - Linux
     - 读书笔记
 ---
 

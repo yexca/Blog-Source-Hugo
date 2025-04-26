@@ -8,7 +8,7 @@ author: yexca
 views:
     - '700'
 categories:
-    - 日常
+    - 折腾经验
 tags:
     - Docker
     - miHoYo

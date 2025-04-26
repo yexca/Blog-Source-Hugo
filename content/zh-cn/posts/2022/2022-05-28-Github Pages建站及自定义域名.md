@@ -9,9 +9,10 @@ author: yexca
 views:
     - '355'
 categories:
-    - 网站建设
+    - 开发实践
 tags:
-    - Github
+    - Github Pages
+    - 建站实践
 ---
 
 ## 引言

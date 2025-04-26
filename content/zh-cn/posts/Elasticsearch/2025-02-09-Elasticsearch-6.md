@@ -6,9 +6,10 @@ author: yexca
 date: '2025-02-09T17:29:28+09:00'
 lastmod: '2025-02-15T17:17:08+09:00'
 categories:
-    - 后端
-    - Spring
+    - 技术学习
 tags:
+    - 后端技术
+    - Elasticsearch
     - SpringCloud
 ---
 

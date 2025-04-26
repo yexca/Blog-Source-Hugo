@@ -8,10 +8,10 @@ author: yexca
 views:
     - '472'
 categories:
-    - 日常
-    - 折腾记录
+    - 折腾经验
 tags:
     - Docker
+    - Komga
 ---
 
 ## 引言

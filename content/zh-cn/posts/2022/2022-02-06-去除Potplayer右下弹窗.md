@@ -1,6 +1,6 @@
 ---
 slug: 23
-title: 去除Potplayer右下弹窗
+title: 去除 Potplayer 右下弹窗
 date: '2022-02-06T21:37:45+08:00'
 author: yexca
 # layout: post
@@ -8,8 +8,9 @@ author: yexca
 views:
     - '690'
 categories:
-    - 软件工具
-    - 娱乐相关
+    - 折腾经验
+tags:
+    - Potplayer
 ---
 
 ## 引言

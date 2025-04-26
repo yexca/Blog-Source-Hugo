@@ -7,10 +7,11 @@ date: 2024-02-20T06:41:18+08:00
 lastmod: 2025-01-28T14:57:18+09:00
 # permalink: /archives/155
 categories:
-    - 编程基础
-    - 编程语言
+    - 技术学习
 tags:
     - Go
+    - 编程语言
+    - 编程基础
 ---
 
 > **Golang 系列**

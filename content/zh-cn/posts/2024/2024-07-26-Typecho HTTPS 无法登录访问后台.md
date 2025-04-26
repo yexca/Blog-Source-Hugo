@@ -6,8 +6,10 @@ author: yexca
 date: 2024-07-26T22:22:22+08:00
 # permalink: /archives/175
 categories:
-    - 日常
-    - 网站建设
+    - 折腾经验
+tags:
+    - Typecho
+    - 故障排查
 ---  
 
 ## 引言

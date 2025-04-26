@@ -5,10 +5,10 @@ title: '软件设计师 - 信息安全部分笔记'
 author: yexca
 date: '2025-03-04T18:38:28+09:00'
 categories:
-    - 考试
-    - 软考
+    - 软考学习
 tags:
     - 软件设计师
+    - 操作系统
 ---
 
 同[计算机网络的笔记](https://blog.yexca.net/archives/236/)的编写时间，毕竟考试这俩部分在一起，都是同时学的

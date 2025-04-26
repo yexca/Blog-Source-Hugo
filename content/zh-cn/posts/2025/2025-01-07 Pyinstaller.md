@@ -5,10 +5,11 @@ title: 'Python pyinstaller 打包'
 author: yexca
 date: '2025-01-07T17:26:09+09:00'
 categories:
-    - 编程基础
-    - 编程语言
+    - 技术学习
 tags:
     - Python
+    - 编程基础
+    - 编程语言
 ---
 
 Python 打包是根据当前系统环境的，Windows 下是打包出 exe 可执行程序，Linux 下打包出 ELF 格式的二进制文件，不支持跨平台打包

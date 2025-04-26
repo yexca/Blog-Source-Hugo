@@ -8,8 +8,7 @@ author: yexca
 views:
     - '330'
 categories:
-    - Linux
-    - LinuxTools
+    - 折腾经验
 tags:
     - Youtube
 ---

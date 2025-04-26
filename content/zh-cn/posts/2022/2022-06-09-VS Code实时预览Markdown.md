@@ -8,8 +8,7 @@ author: yexca
 views:
     - '245'
 categories:
-    - 软件工具
-    - 编码相关
+    - 折腾经验
 tags:
     - Markdown
     - 'VS Code'

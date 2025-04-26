@@ -19,6 +19,7 @@ languages:
     title: "yexca'Blog"
     weight: 1
     params:
+      description: "yexca 的技术与生活博客，记录编程学习与生活随想。"
       sidebar:
         subtitle: 把这个不美好的世界，编程您所期望的样子吧！
   zh-tw:
@@ -30,6 +31,7 @@ languages:
     title: "yexca'Blog"
     weight: 2
     params:
+      description: "yexca 的技術與生活部落格，紀錄程式學習與日常隨筆。"
       sidebar:
         subtitle: 把這個不美好的世界，編程您所期望的樣子吧！
   en:
@@ -41,6 +43,7 @@ languages:
     title: "yexca'Blog"
     weight: 3
     params:
+      description: "yexca's tech and life blog, writing about coding, projects, and daily thoughts."
       sidebar:
         subtitle: "Tech Otakus Change The World"
   ja:
@@ -52,6 +55,7 @@ languages:
     title: "yexca'Blog"
     weight: 4
     params:
+      description: "yexca の技術と生活のブログ。プログラミングや日常の記録を掲載。"
       sidebar:
         subtitle: "この世で道が尽きることはなく、行きたいと望む心があれば、道は必ず足元に広がる"
 

@@ -8,9 +8,10 @@ author: yexca
 views:
     - '252'
 categories:
-    - 日常
+    - 折腾经验
 tags:
     - Windows
+    - FTP
 ---
 
 好像并没有解决方法，不过可以把快速访问中自己添加的全删除 (恢复默认)

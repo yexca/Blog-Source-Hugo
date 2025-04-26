@@ -1,6 +1,6 @@
 ---
 slug: 7
-title: '关于在使用 navicat 连接 SQL server 的一些问题'
+title: '关于在使用 Navicat 连接 SQL server 的一些问题'
 date: '2021-11-07T23:41:46+08:00'
 author: hiyoung
 # layout: post
@@ -8,8 +8,10 @@ author: hiyoung
 views:
     - '200'
 categories:
-    - 编程基础
+    - 技术学习
+tags:
     - 数据库
+    - Navicat
 ---
 
 > 该文章由 [Hiyoung](https://blog.hiyoung.xyz/) 编写

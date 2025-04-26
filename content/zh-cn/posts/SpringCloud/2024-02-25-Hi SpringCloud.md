@@ -7,9 +7,9 @@ date: 2024-02-25T17:56:54+08:00
 lastmod: 2025-02-05T17:13:54+09:00
 # permalink: /archives/158
 categories:
-    - 后端
-    - Spring
+    - 技术学习
 tags:
+    - 后端技术
     - SpringCloud
 --- 
 

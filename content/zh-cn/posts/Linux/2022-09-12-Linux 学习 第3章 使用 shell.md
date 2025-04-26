@@ -8,9 +8,9 @@ author: yexca
 views:
     - '305'
 categories:
-    - Linux
-    - LinuxStudy
+    - 技术学习
 tags:
+    - Linux
     - 读书笔记
 ---
 

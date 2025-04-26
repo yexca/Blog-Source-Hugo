@@ -1,6 +1,6 @@
 ---
 slug: 18
-title: 使用xshell连接虚拟机的centos7系统
+title: 使用 xshell 连接虚拟机的 centos7 系统
 date: '2021-12-26T15:34:59+08:00'
 author: yexca
 # layout: post
@@ -8,8 +8,10 @@ author: yexca
 views:
     - '357'
 categories:
-    - Linux
-    - LinuxStudy
+    - 技术学习
+tags:
+    - Xshell
+    - CentOS
 ---
 
 注意：此方法为临时连接，虚拟机重启或关机需要重新配置

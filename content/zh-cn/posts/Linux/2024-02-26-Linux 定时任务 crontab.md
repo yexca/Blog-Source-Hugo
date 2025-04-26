@@ -6,8 +6,10 @@ author: yexca
 date: 2024-02-26T21:34:15+08:00
 # permalink: /archives/159
 categories:
+    - 技术学习
+tahs:
     - Linux
-    - LinuxTools
+    - crontab
 --- 
 
 ~~这篇文章还是有点久远的，书写习惯和现在不同，甚至看着有点不习惯~~

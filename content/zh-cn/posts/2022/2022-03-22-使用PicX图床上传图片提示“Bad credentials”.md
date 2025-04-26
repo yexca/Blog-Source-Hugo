@@ -8,9 +8,10 @@ author: yexca
 views:
     - '374'
 categories:
-    - 日常
+    - 折腾经验
 tags:
     - Github
+    - PicX
     - 图床
 ---
 

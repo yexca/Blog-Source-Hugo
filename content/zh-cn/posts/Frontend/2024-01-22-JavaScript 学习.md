@@ -6,7 +6,9 @@ author: yexca
 date: 2024-01-22T19:51:24+08:00
 # permalink: /archives/148
 categories:
-    - 前端
+    - 技术学习
+tags:
+    - 前端技术
     - JavaScript
 ---
 

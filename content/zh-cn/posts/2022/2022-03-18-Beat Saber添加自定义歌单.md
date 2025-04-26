@@ -8,9 +8,10 @@ author: yexca
 views:
     - '1049'
 categories:
-    - 日常
+    - 折腾经验
 tags:
     - Game
+    - Beat Saber
 ---
 
 ## 引言

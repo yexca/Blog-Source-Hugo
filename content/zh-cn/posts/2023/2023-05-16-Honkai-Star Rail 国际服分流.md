@@ -8,7 +8,7 @@ permalink: /archives/107
 views:
     - '32'
 categories:
-    - 日常
+    - 折腾经验
 tags:
     - Game
     - miHoYo

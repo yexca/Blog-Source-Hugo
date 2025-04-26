@@ -8,8 +8,7 @@ author: yexca
 views:
     - '752'
 categories:
-    - Linux
-    - LinuxTools
+    - 技术学习
 tags:
     - Fedora
     - Java
