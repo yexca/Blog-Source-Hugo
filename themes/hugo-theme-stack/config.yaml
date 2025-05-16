@@ -1,0 +1,241 @@
+module:
+    hugoVersion:
+        extended: true
+        min: "0.87.0"
+
+params:
+    mainSections:
+        - posts
+    featuredImageField: image
+    rssFullContent: false
+    favicon: '/favicon.ico'
+
+    footer:
+        since: 2021
+        customText:
+
+    dateFormat:
+        # published: Jan 02, 2006
+        published: 2006-01-02 15:04 MST
+        # lastUpdated: Jan 02, 2006 15:04 MST
+        lastUpdated: 2006-01-02 15:04 MST
+
+    sidebar:
+        compact: false
+        emoji:
+        subtitle:
+        avatar:
+            enabled: true
+            local: true
+            src: img/avatar.png
+
+    article:
+        headingAnchor: false
+        math: true
+        toc: true
+        readingTime: true
+        license:
+            enabled: true
+            # default: Licensed under CC BY-NC-SA 4.0
+            default: This post is licensed under CC BY-NC-SA 4.0 by the author.
+
+    comments:
+        enabled: true
+        provider: twikoo
+
+        disqusjs:
+            shortname:
+            apiUrl:
+            apiKey:
+            admin:
+            adminLabel:
+
+        utterances:
+            repo:
+            issueTerm: pathname
+            label:
+
+        beaudar:
+            repo:
+            issueTerm: pathname
+            label:
+            theme:        
+
+        remark42:
+            host:
+            site:
+            locale:
+
+        vssue:
+            platform:
+            owner:
+            repo:
+            clientId:
+            clientSecret:
+            autoCreateIssue: false
+
+        # Waline client configuration see: https://waline.js.org/en/reference/client/props.html
+        waline:
+            serverURL:
+            lang:
+            visitor:
+            avatar:
+            emoji:
+                - https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo
+            requiredMeta:
+                - nick
+                - mail
+            locale:
+                admin: Admin
+                placeholder:
+
+        twikoo:
+            envId: https://twikoo-jade-one.vercel.app/
+            el: '#tcomment'
+            region:
+            path:
+            lang:
+
+        giscus:
+            repo:
+            repoID:
+            category:
+            categoryID:
+            mapping:
+            strict:
+            lightTheme:
+            darkTheme:
+            reactionsEnabled: 1
+            emitMetadata: 0
+            inputPosition:
+            lang:
+
+        gitalk:
+            owner:
+            admin:
+            repo:
+            clientID:
+            clientSecret:
+
+        cusdis:
+            host:
+            id:
+
+    widgets:
+        homepage: 
+          - type: search
+          - type: archives
+            params:
+              limit: 5
+          - type: categories
+            params:
+              limit: 11
+          - type: tag-cloud
+            params:
+              limit: 11
+        page: 
+          - type: toc
+
+    opengraph:
+        twitter:
+            # Your Twitter username
+            site: yexcano
+
+            # Available values: summary, summary_large_image
+            card: summary_large_image
+
+    defaultImage:
+        opengraph:
+            enabled: false
+            local: false
+            src:
+
+    colorScheme:
+        # Display toggle
+        toggle: true
+
+        # Available values: auto, light, dark
+        default: auto
+
+    imageProcessing:
+        cover:
+            enabled: true
+        content:
+            enabled: true
+
+### Custom menu
+### See https://stack.jimmycai.com/config/menu
+### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
+menu:
+    main: []
+
+    social:
+        - identifier: github
+          name: 0GitHub
+          url: https://github.com/yexca
+          params:
+              icon: brand-github
+
+        - identifier: mail
+          name: 1Mail
+          url: mailto:yexca@duck.com
+          params:
+              icon: mail
+
+        - identifier: telegram
+          name: 2Telegram
+          url: https://t.me/yexca
+          params:
+              icon: telegram
+
+        # - identifier: rss
+        #   name: 3RSS
+        #   url: /index.xml
+        #   params:
+        #       icon: rss
+
+related:
+    includeNewer: true
+    threshold: 60
+    toLower: false
+    indices:
+        - name: tags
+          weight: 100
+
+        - name: categories
+          weight: 200
+
+markup:
+    goldmark:
+        extensions:
+            passthrough:
+                enable: true
+                delimiters:
+                    block:
+                        - - \[
+                          - \]
+                        - - $$
+                          - $$
+                    inline:
+                        - - \(
+                          - \)
+        renderer:
+            ## Set to true if you have HTML content inside Markdown
+            unsafe: false
+    tableOfContents:
+        endLevel: 4
+        ordered: true
+        startLevel: 2
+    highlight:
+        noClasses: false
+        codeFences: true
+        guessSyntax: true
+        lineNoStart: 1
+        lineNos: true
+        lineNumbersInTable: true
+        tabWidth: 4
+
+outputFormats:
+  RSS:
+    mediatype: "application/rss"
+    baseName: "feed"

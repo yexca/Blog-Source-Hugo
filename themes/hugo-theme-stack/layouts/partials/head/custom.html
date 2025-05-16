@@ -1,0 +1,81 @@
+{{/*  {{ $lang := .Lang }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Blog",
+  "name": "{{ .Site.Title }}",
+  "url": "{{ .Permalink }}",
+  "inLanguage": "{{ $lang }}",
+  "description": "{{ .Site.Params.description }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ .Site.Params.author }}"
+  }
+}
+</script>  */}}
+
+{{/*  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Blog",
+      "name": "{{ .Site.Title }}",
+      "url": "{{ .Permalink }}",
+      "inLanguage": "{{ .Site.Language.Lang }}",
+      "description": "{{ .Site.Params.description }}",
+      "author": {
+        "@type": "Person",
+        "name": "yexca"
+      }
+    }
+</script>      */}}
+
+{{ if .IsHome }}
+  <!-- 首页 JSON-LD -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Blog",
+    "name": "yexca'Blog",
+    "url": "{{ .Site.BaseURL }}",
+    "inLanguage": "{{ .Site.Language.Lang }}",
+    "description": "{{ .Site.Params.description }}",
+    "author": {
+      "@type": "Person",
+      "name": "yexca"
+    }
+  }
+  </script>
+
+{{ else if .IsPage }}
+  <!-- 文章页 JSON-LD -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ .Permalink }}"
+    },
+    "headline": "{{ .Title }}",
+    "name": "yexca'Blog",
+    "author": {
+      "@type": "Person",
+      "name": "yexca"
+    },
+    "publisher": {
+      "@type": "Person",
+      "name": "yexca'Blog"
+    },
+    "datePublished": "{{ .Date.Format "2006-01-02" }}",
+    "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
+    "inLanguage": "{{ .Site.Language.Lang }}",
+    "description": "{{ .Params.description | default .Site.Params.description }}"
+  }
+  </script>
+{{ end }}
+
+<link rel="alternate" hreflang="x-default" href="https://blog.yexca.net/" />
+<link rel="alternate" hreflang="zh-CN" href="https://blog.yexca.net/" />
+<link rel="alternate" hreflang="zh-TW" href="https://blog.yexca.net/zh-tw/" />
+<link rel="alternate" hreflang="ja" href="https://blog.yexca.net/ja/" />
+<link rel="alternate" hreflang="en" href="https://blog.yexca.net/en/" />

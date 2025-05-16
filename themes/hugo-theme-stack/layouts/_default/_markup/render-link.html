@@ -1,0 +1,12 @@
+{{/*  <a class="link" href="{{ .Destination | safeURL }}" {{ with .Title}} title="{{ . }}"
+    {{ end }}{{ if strings.HasPrefix .Destination "http" }} target="_blank" rel="noopener"
+    {{ end }}>{{ .Text | safeHTML }}</a>  */}}
+
+<a class="link" href="{{ .Destination | safeURL }}" 
+{{ with .Title}} title="{{ . }}"{{ end }}
+{{ if not (strings.HasPrefix .Destination "https://blog.yexca.net") }}
+   target="_blank" rel="noopener"
+{{ end }}>
+{{ .Text | safeHTML }}
+</a>
+ 
