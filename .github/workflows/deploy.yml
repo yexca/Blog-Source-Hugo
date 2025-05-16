@@ -1,0 +1,30 @@
+name: Build and Deploy Hugo Blog
+
+on:
+  push:
+    branches:
+      - main  # 监听源仓库主分支的更新
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+
+      - name: Build Hugo site
+        run: hugo --minify
+
+      - name: Deploy to blogWeb repo
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          external_repository: yexca/blog-web-test
+          publish_branch: main  # blogWeb 的分支，比如 main 或 gh-pages
+          publish_dir: ./public  # Hugo 默认输出目录
+          personal_token: ${{ secrets.PERSONAL_TOKEN }}

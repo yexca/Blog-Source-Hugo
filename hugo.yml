@@ -48,7 +48,7 @@ languages:
         subtitle: "Tech Otakus Change The World"
   ja:
     contentDir: 'content/ja-jp'
-    disable: false
+    disabled: false
     languageCode: 'ja'
     languageDirection: 'ltr'
     languageName: '日本語'
@@ -65,3 +65,14 @@ pagination:
 permalinks:
     posts: /archives/:slug/
     page: /:slug/
+
+pygmentsUseClasses: true
+
+markup:
+  highlight:
+    noClasses: false
+    style: monokai
+    guessSyntax: true
+    lineNos: true
+    lineNumbersInTable: true
+    tabWidth: 4
