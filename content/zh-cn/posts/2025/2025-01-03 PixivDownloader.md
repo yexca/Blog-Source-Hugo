@@ -4,12 +4,17 @@ title: 'Pixiv 下载器'
 # draft: true
 author: yexca
 date: '2025-01-03T20:05:44+09:00'
+lastmod: '2025-05-18T16:20:33+09:00'
 categories:
     - 开发实践
 tags:
     - Pixiv
     - Python
+    - PyQt6
 ---
+
+> 2025-05-18 更新  
+> 我写了个 SQLite 版的，不用配置数据库了，详情访问: <https://blog.yexca.net/archives/248>
 
 耗时三天写出来了个大概能用的版本，不过没有做错误处理 ~~遇到错误直接重启吧~~
 
