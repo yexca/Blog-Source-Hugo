@@ -1,11 +1,12 @@
 ---
 slug: 214
-title: 'Study Japanese From Song - 《僕が死のうと思ったのは》'
+title: 'Echoes of Emotion - 《僕が死のうと思ったのは》'
 # draft: true
 author: yexca
 date: '2025-01-11T01:10:51+09:00'
+lastmod: '2025-05-20T23:44:07+09:00'
 categories:
-    - Daily
+    - Academic Notes
 tags:
     - Japanese
 ---

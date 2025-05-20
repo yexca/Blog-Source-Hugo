@@ -5,7 +5,7 @@ title: '获取 Onedrive 下载直链'
 author: yexca
 date: '2025-03-02T12:58:57+09:00'
 categories:
-    - 折腾记录
+    - 折腾经验
 tags:
     - OneDrive
 ---

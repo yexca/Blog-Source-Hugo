@@ -14,9 +14,9 @@ tags:
     - 下载工具
 ---
 
-> 该文章由 [Hiyoung](https://blog.hiyoung.xyz/) 编写
+> 该文章由 [Hiyoung](https://blog.hiyoung.icu/) 编写
 >
-> 其文章: <https://blog.hiyoung.xyz/2022/09/01/906d191f9a59/>
+> 其文章: <https://blog.hiyoung.icu/2022/09/01/906d191f9a59/>
 
 Aria2是Linux下的一个下载工具,这里介绍Windows下的安装与配置,官方Aria2没有GUI界面所以配合AriaNG直接在Web界面进行操作.
 

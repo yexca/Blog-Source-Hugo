@@ -1,17 +1,17 @@
 ---
 slug: 239
-title: '从歌曲学日语 - 《生きるを選んだ私へ》'
+title: '音有所感 - 《生きるを選んだ私へ》'
 # draft: true
 author: yexca
 date: '2025-03-07T01:26:31+09:00'
-lastmod: '2025-03-07T20:41:31+09:00'
+lastmod: '2025-05-20T23:44:07+09:00'
 categories:
     - 学术探索
 tags:
     - 日语学习
 ---
 
-{{< details "日语歌曲系列" >}}
+{{< details "音有所感系列" >}}
 
 | 歌曲名 | 翻译 | 链接 |
 |:-- | :-- | :--|
@@ -21,6 +21,7 @@ tags:
 | 17さいのうた | 17 岁的歌 | <https://blog.yexca.net/archives/224> |
 | drop | 坠入爱河? | <https://blog.yexca.net/archives/230> |
 | 生きるを選んだ私へ | 致选择活下去的自己 | 本文 |
+| rainy lady | 还没想好 | <https://blog.yexca.net/archives/249> |
 
 {{< /details >}}
 

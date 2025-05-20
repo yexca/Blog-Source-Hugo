@@ -14,7 +14,7 @@ tags:
     - Navicat
 ---
 
-> 该文章由 [Hiyoung](https://blog.hiyoung.xyz/) 编写
+> 该文章由 [Hiyoung](https://blog.hiyoung.icu/) 编写
 
 在安装完 SQL server 和 navicat 后在 navicat 中添加数据库：
 

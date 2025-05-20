@@ -1,17 +1,17 @@
 ---
 slug: 230
-title: '从歌曲学日语 - 《drop》'
+title: '音有所感 - 《drop》'
 # draft: true
 author: yexca
 date: '2025-02-06T22:06:10+09:00'
-lastmod: '2025-03-07T20:41:31+09:00'
+lastmod: '2025-05-20T23:44:07+09:00'
 categories:
     - 学术探索
 tags:
     - 日语学习
 ---
 
-{{< details "日语歌曲系列" >}}
+{{< details "音有所感系列" >}}
 
 | 歌曲名 | 翻译 | 链接 |
 |:-- | :-- | :--|

@@ -13,7 +13,7 @@ tags:
     - 数据库
 ---
 
-> 该文章由 [Hiyoung](https://blog.hiyoung.xyz/) 编写
+> 该文章由 [Hiyoung](https://blog.hiyoung.icu/) 编写
 
 ## 1.SQL ORDER BY 关键字
 

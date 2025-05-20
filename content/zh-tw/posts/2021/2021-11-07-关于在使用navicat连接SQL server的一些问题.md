@@ -8,13 +8,14 @@ author: hiyoung
 views:
     - '200'
 categories:
-    - 程式設計基礎
+    - 技術研修
+tags:
     - 資料庫
 ---
 
 > 該文章使用 Google 翻譯處理。
 >
-> 該文章由 [Hiyoung](https://blog.hiyoung.xyz/) 編寫，翻譯自 yexca
+> 該文章由 [Hiyoung](https://blog.hiyoung.icu/) 編寫，翻譯自 yexca
 
 在安裝完 SQL server 和 navicat 後在 navicat 中添加數據庫：
 

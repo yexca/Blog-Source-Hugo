@@ -9,9 +9,10 @@ author: yexca
 views:
     - '7351'
 categories:
-    - 日常
+    - 實務折騰
 tags:
     - Game
+    - VR
 ---
 
 > 此頁面有使用機器翻譯喲

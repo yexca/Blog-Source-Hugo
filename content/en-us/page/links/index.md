@@ -18,7 +18,7 @@ links:
     icon: tags
   - title: "Hiyoung'Blog"
     description: Hiyoung's Blog
-    website: https://blog.hiyoung.xyz/
+    website: https://blog.hiyoung.icu/
     image: https://cdn.jsdelivr.net/gh/hiyoung3937/img_hiyoung@master/bolg/bolg_icon.jpg
   - title: "Lit Link"
     description: More about me

@@ -7,7 +7,9 @@ author: yexca
 views:
     - '163'
 categories:
-    - 日常
+    - 生活紀錄
+tags:
+    - 哈囉世界
 ---
 
 > 該文章使用 Google 翻譯處理。

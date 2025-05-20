@@ -8,8 +8,7 @@ author: yexca
 views:
     - '242'
 categories:
-    - 軟體工具
-    - 編碼相關
+    - 技術研修
 tags:
     - Python
     - 'VS Code'

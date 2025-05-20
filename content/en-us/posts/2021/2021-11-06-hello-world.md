@@ -8,7 +8,9 @@ author: yexca
 views:
     - '163'
 categories:
-    - Daily
+    - Life Logs
+tags:
+    - Hello World
 ---
 
 Welcome to WordPress. This is your first post. Edit or delete it and start writing.

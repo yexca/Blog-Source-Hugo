@@ -5,13 +5,14 @@ title: 'From Saving Money, To Living Life, To Saying Goodbye'
 author: yexca
 date: '2025-04-14T16:23:48+09:00'
 categories:
-    - Daily
-    - Life Philosophy
+    - Systemic Life
+tags:
+    - Bookkeeping
 ---
 
 > This article was partially machine translated
 
-> I started keeping accounts in April 2023. I stopped in April 2025.  
+> I started Bookkeeping in April 2023. I stopped in April 2025.  
 > My last entry: ¥0
 
 ## The Beginning: To Save Money and Gain Control

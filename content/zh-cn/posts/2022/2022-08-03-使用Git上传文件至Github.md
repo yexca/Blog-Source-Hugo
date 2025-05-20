@@ -14,9 +14,9 @@ tags:
     - Github
 ---
 
-> 该文章由 [Hiyoung](https://blog.hiyoung.xyz/) 编写
+> 该文章由 [Hiyoung](https://blog.hiyoung.icu/) 编写
 >
-> 其文章: <https://blog.hiyoung.xyz/2022/08/03/0b5e2db181ab/>
+> 其文章: <https://blog.hiyoung.icu/2022/08/03/0b5e2db181ab/>
 
 最近经常要使用Github保存我学习过程中的代码，发现无法直接上传文件夹，遂在网上查了一下使用Git上传，所以写个博文记录一下
 

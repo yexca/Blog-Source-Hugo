@@ -8,7 +8,9 @@ author: yexca
 views:
     - '163'
 categories:
-    - 日常
+    - 生活記録
+tags:
+    - ハロー・ワールド
 ---
 
 WordPress へようこそ。これが最初の投稿です。編集または削除して書き込みを始めてください。
