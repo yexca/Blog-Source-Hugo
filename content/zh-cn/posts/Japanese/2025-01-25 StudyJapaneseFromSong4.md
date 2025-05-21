@@ -21,6 +21,7 @@ tags:
 | 17さいのうた | 17 岁的歌 | 本文 |
 | drop | 坠入爱河? | <https://blog.yexca.net/archives/230> |
 | 生きるを選んだ私へ | 致选择活下去的自己 | <https://blog.yexca.net/archives/239> |
+| rainy lady | 雨意未晴 | <https://blog.yexca.net/archives/249> |
 
 {{< /details >}}
 
