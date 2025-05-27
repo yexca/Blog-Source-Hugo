@@ -4,7 +4,7 @@ title: '音有所感 - 《あくあ色ぱれっと》'
 # draft: true
 author: yexca
 date: '2025-01-20T00:16:48+09:00'
-lastmod: '2025-05-20T23:44:07+09:00'
+lastmod: '2025-05-27T18:11:07+09:00'
 categories:
     - 学术探索
 tags:
@@ -41,7 +41,8 @@ tags:
 
 最后捏，我也想染上 aqua 的色彩捏，毕竟是我最爱的三个人之一 ~~（C105 没买到立牌真可惜了，结城的也没买到（悲~~
 
-> 2025.01.27 唱了这首歌，唱的时候就想到了 aqua 翻唱的 [誇り高きアイドル](https://youtu.be/2pYaIr-4pfA?si=f_TOhWLWPntx_x2K)，体验还是很奇妙的
+> 2025.01.27 唱了这首歌，唱的时候就想到了 aqua 翻唱的 [誇り高きアイドル](https://youtu.be/2pYaIr-4pfA?si=f_TOhWLWPntx_x2K)，体验还是很奇妙的  
+> 2025.05.26 又唱了一遍 (虽然在此之前也在 VRChat 唱了一遍来着)，果然还是喜欢 "キミがいるから　歩いてこれた、キミがいなくちゃ　前も見れない" 啊，哪天心情低落时候遇到一个可以激励自己的人或者想达成的事情真的很有能量呢
 >
 > ![image](https://github.com/yexca/picx-images-hosting/raw/master/2025/02-JapaneseSong/photo_1_2025-02-08_16-28-24.175i4h7yfd.webp)
 
