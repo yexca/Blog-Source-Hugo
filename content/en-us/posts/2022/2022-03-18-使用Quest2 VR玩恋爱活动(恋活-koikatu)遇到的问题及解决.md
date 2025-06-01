@@ -1,6 +1,6 @@
 ---
 slug: 30
-title: 'Issues and Solutions When Playing Koikatu (恋活) in VR with Quest 2'
+title: 'Issues and Solutions When Playing Koikatsu in VR with Quest 2'
 date: '2022-03-18T16:54:23+08:00'
 lastmod: '2025-01-03T21:01:01+09:00'
 author: yexca

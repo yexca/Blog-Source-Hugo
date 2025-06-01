@@ -20,7 +20,7 @@ tags:
 
 ## 使用方法
 
-项目地址: <https://github.com/yexca/PixivDownloader-SQLite>
+項目地址: <https://github.com/yexca/PixivDownloader-SQLite>
 
 GUI は前バージョンと似てるから、<https://blog.yexca.net/archives/211/> を見ればわかる。
 
