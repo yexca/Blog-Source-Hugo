@@ -19,7 +19,7 @@ menu:
 
 > このページは機械翻訳を使っているよ！(๑˃̵ᴗ˂̵)
 
-あぁっ、きた！ [yexca (いえか)](https://lit.link/yexca) だよ！
+あぁっ、きた！ [yexca (いえか)](https://blog.yexca.net/ja/) だよ！
 
 ## どこ？
 
@@ -79,8 +79,6 @@ Wow〜 ⊙o⊙
 
 **好奇心を持ち続けて、もっともっと可能性を探ろう！**
 
-## もっと見たい？
+---
 
-もしかしたら <https://lit.link/yexca> を見てみるといいかも？ ~~(最近更新してないけど〜 (今簡体字中国語のみ))~~ もう更新した
-
-![yexca-about-ja](https://count.getloli.com/@yexca-about-ja)
+![yexca-about](https://count.getloli.com/@yexca-about)

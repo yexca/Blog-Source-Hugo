@@ -20,9 +20,6 @@ links:
     description: Hiyoung 的部落格
     website: https://blog.hiyoung.icu/
     image: https://cdn.jsdelivr.net/gh/hiyoung3937/img_hiyoung@master/bolg/bolg_icon.jpg
-  - title: "Lit Link"
-    description: 我做了什麼
-    website: https://lit.link/yexca
   - title: "VRChat Docs"
     description: 對於遊戲 VRchat 所寫的教學文檔
     website: https://vrchat.yexca.net/
@@ -30,6 +27,9 @@ links:
     description: 對於遊戲 VRchat 所寫的教程部落格，內容沒有文檔多
     website: https://vrc.yexca.net/
     image: https://vrc.yexca.net/assets/img/auther.jpg
+  - title: "Lit Link"
+    description: 我做了什麼
+    website: https://lit.link/yexca
 menu:
     main: 
         weight: 5

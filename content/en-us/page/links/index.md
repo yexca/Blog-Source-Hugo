@@ -20,9 +20,6 @@ links:
     description: Hiyoung's Blog
     website: https://blog.hiyoung.icu/
     image: https://cdn.jsdelivr.net/gh/hiyoung3937/img_hiyoung@master/bolg/bolg_icon.jpg
-  - title: "Lit Link"
-    description: More about me
-    website: https://lit.link/yexca
   - title: "VRChat Docs"
     description: The tutorial docs for the game VRChat
     website: https://vrchat.yexca.net/
@@ -30,6 +27,9 @@ links:
     description: The tutorial for the game VRChat, But the content is less than docs
     website: https://vrc.yexca.net/
     image: https://vrc.yexca.net/assets/img/auther.jpg
+  - title: "Lit Link"
+    description: More about me
+    website: https://lit.link/yexca
 menu:
     main: 
         weight: 5

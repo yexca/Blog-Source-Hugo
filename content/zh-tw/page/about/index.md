@@ -19,7 +19,7 @@ menu:
 
 > 此頁面有使用機器翻譯喲 ( ¯\_(ツ)_/¯)
 
-歡迎!~，我是 [yexca (葉卡)](https://lit.link/yexca)
+歡迎!~，我是 [yexca (葉卡)](https://blog.yexca.net/zh-tw/)
 
 ## 這是在哪裡？
 
@@ -79,8 +79,6 @@ Wow~ ⊙o⊙
 
 **保持好奇心，去探索更多可能性！**
 
-## 還想看更多？
+---
 
-或許可以去看看 <https://lit.link/yexca> ？~~(雖然好久沒更新了 (現在只有簡體中文))~~
-
-![yexca-about-zh-tw](https://count.getloli.com/@yexca-about-zh-tw)
+![yexca-about](https://count.getloli.com/@yexca-about)

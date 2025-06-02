@@ -19,7 +19,7 @@ menu:
 
 > This page uses machine translation ( ¯\_(ツ)_/¯)
 
-Hi there! I'm [yexca /jɛkɑ/](https://lit.link/yexca)
+Hi there! I'm [yexca /jɛkɑ/](https://blog.yexca.net/en/)
 
 ## Where?
 
@@ -77,8 +77,6 @@ Main quests might feel tough, side quests might seem tedious, but every experien
 
 Here’s to staying curious and exploring endless possibilities!  
 
-## Want More?  
+---
 
-Check out <https://lit.link/yexca> ~~(though it’s been ages since I last updated it (Currently only in Simplified Chinese))~~ now it updated
-
-![yexca-about-en-us](https://count.getloli.com/@yexca-about-en-us)
+![yexca-about](https://count.getloli.com/@yexca-about)

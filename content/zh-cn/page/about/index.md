@@ -17,7 +17,7 @@ menu:
             icon: user
 ---
 
-欢迎!~，我是 [yexca (叶卡)](https://lit.link/yexca)
+欢迎!~，我是 [yexca (叶卡)](https://blog.yexca.net/)
 
 ## 这是哪？
 
@@ -77,12 +77,6 @@ Wow~ ⊙o⊙
 
 **保持好奇心，去探索更多可能性！**
 
-## 还想看更多？
-
-或许可以去看看 <https://lit.link/yexca> ？~~(虽然好久没更新了)~~
-
 ---
-
-从 2025-02-28 开始，该页面访问人数
 
 ![yexca-about](https://count.getloli.com/@yexca-about)
