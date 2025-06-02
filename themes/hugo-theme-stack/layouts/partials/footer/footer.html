@@ -5,7 +5,7 @@
         {{ if and (.Site.Params.footer.since) (ne .Site.Params.footer.since (int (now.Format "2006"))) }}
             {{ .Site.Params.footer.since }} - 
         {{ end }}
-        {{ now.Format "2006" }} <a href="https://lit.link/yexca" target="_blank" class="link" rel="noopener"> {{ default .Site.Title .Site.Copyright }} </a>
+        {{ now.Format "2006" }} <a href="https://blog.yexca.net" target="_blank" class="link" rel="noopener"> {{ default .Site.Title .Site.Copyright }} </a>
     </section>
     
     <section class="powerby">
