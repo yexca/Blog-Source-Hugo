@@ -50,16 +50,15 @@ Wow〜 ⊙o⊙
 
 ### ブログ
 
-- WordPress ブログ: <https://wp.yexca.net/> *Argonテーマが大好き〜！*
-- Jekyll ブログ: <https://jekyllblog.yexca.net/> *このテーマもいいけど、多言語サポートの調整が面倒だった〜*
-- xlog ブログ: <https://xlog.yexca.net/> *システムを再インストールしたら、ウォレットのバックアップを取らなかったから…もう無くなっちゃった (悲)*
-- Hugo ブログ: <https://blog.yexca.net/> *現在更新中のブログだよ〜*
+- Hugo ブログ: <https://blog.yexca.net/>
+
+4言語対応の現在のブログです〜
 
 ### VRChat チュートリアル
 
 - Hexo Argon ブログ: <https://vrc.yexca.net/>
 - Hugo Book ドキュメント: <https://vrchat.yexca.net/>
-- Docsify ドキュメント: <https://docsifyvrchat.yexca.net/>  
+- Docsify ドキュメント: <https://docsifyvrchat.yexca.net/> *アーカイブのみ*  
 
 ### 音楽
 

@@ -41,9 +41,8 @@ Oculus Link requires a high-quality USB cable that supports both data and power.
 
 - Supported GPUs for Oculus Link
 
-|                         | Supported | Not Supported |
+|        NVIDIA GPUs      | Supported | Not Supported |
 | ----------------------- | --------- | ------------- |
-| **NVIDIA GPUs**         |           |               |
 | NVIDIA Titan Z          |           | X             |
 | NVIDIA Titan X          | X         |               |
 | NVIDIA GTX 970          | X         |               |
@@ -59,9 +58,8 @@ Oculus Link requires a high-quality USB cable that supports both data and power.
 | RTX 20-series (all)     | X         |               |
 | RTX 30-series (all)     | X         |               |
 
-|                 | Supported | Not Supported |
+|     AMD GPUs    | Supported | Not Supported |
 | --------------- | --------- | ------------- |
-| **AMD GPUs**     |           |               |
 | AMD 200 Series   |           | X             |
 | AMD 300 Series   |           | X             |
 | AMD 400 Series   | X         |               |

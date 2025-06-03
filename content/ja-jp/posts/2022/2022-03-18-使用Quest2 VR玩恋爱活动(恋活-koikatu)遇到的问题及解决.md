@@ -11,7 +11,7 @@ tags:
     - VR
 ---
 
-{{< notice >}} 本文由 ChatGPT 翻譯 {{< /notice >}}
+{{< notice >}} 本この記事は ChatGPT によって翻訳されました {{< /notice >}}
 
 ## はじめに
 
@@ -37,9 +37,8 @@ Oculus Link には、データ転送と給電の両方に対応した高品質�
 
 #### Oculus Link 対応 GPU
 
-|                                          |          |                |
+|      NVIDIA GPU                          |  スポット | スポットではない |
 | ---------------------------------------- | -------- | -------------- |
-| **NVIDIA GPU**                           | **スポット** | **スポットではない** |
 | NVIDIA Titan Z                           |          | X              |
 | NVIDIA Titan X                           | X        |                |
 | NVIDIA GeForce GTX 970                   | X        |                |
@@ -55,9 +54,8 @@ Oculus Link には、データ転送と給電の両方に対応した高品質�
 | NVIDIA GeForce RTX 20-series (all)       | X        |                |
 | NVIDIA GeForce RTX 30-series (all)       | X        |                |
 
-|                 |          |                |
+|     AMD GPU     | スポット  | スポットではない |
 | --------------- | -------- | -------------- |
-| **AMD GPU**     | **スポット** | **スポットではない** |
 | AMD 200 Series  |          | X              |
 | AMD 300 Series  |          | X              |
 | AMD 400 Series  | X        |                |

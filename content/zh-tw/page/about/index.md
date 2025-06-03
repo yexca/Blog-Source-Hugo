@@ -50,16 +50,15 @@ Wow~ ⊙o⊙
 
 ### 部落格
 
-* WordPress 部落格: <https://wp.yexca.net/> *我超愛 Argon 這個主題！*
-* Jekyll 部落格: <https://jekyllblog.yexca.net/> *這個主題也不錯，可惜多語言支援調整起來太麻煩啦*
-* xlog 部落格: <https://xlog.yexca.net/> *重灌系統後沒備份錢包，就當作沒了吧 (悲)*
-* Hugo 部落格: <https://blog.yexca.net/> *現在還在更新中的部落格*
+* Hugo 部落格: <https://blog.yexca.net/>
+
+就是當前這個部落格啦，支援四種語言~
 
 ### VRChat 教學
 
 * Hexo Argon 部落格: <https://vrc.yexca.net/>
 * Hugo Book 文件: <https://vrchat.yexca.net/>
-* Docsify 文件: <https://docsifyvrchat.yexca.net/>  
+* Docsify 文件: <https://docsifyvrchat.yexca.net/> *僅存檔*  
 
 ### 音樂
 

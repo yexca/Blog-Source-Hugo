@@ -39,9 +39,8 @@ Oculus Link 需使用能够支持数据和电源连接的优质 USB 数据线。
 
 - Oculus Link 支持的 GPU
 
-|                                          |          |                |
+|             NVIDIA GPU                   |   支持   |  暂时不支持     |
 | ---------------------------------------- | -------- | -------------- |
-| **NVIDIA GPU**                           | **支持** | **暂时不支持** |
 | NVIDIA Titan Z                           |          | X              |
 | NVIDIA Titan X                           | X        |                |
 | NVIDIA GeForce GTX 970                   | X        |                |
@@ -57,9 +56,9 @@ Oculus Link 需使用能够支持数据和电源连接的优质 USB 数据线。
 | NVIDIA GeForce RTX 20-series (all)       | X        |                |
 | NVIDIA GeForce RTX 30-series (all)       | X        |                |
 
-|                 |          |                |
+|    AMD GPU      |   支持   |   暂时不支持    |
 | --------------- | -------- | -------------- |
-| **AMD GPU**     | **支持** | **暂时不支持** |
+| ****     | **** | **** |
 | AMD 200 Series  |          | X              |
 | AMD 300 Series  |          | X              |
 | AMD 400 Series  | X        |                |

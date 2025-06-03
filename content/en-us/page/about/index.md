@@ -17,7 +17,7 @@ menu:
             icon: user
 ---
 
-> This page uses machine translation ( ¯\_(ツ)_/¯)
+> This page uses machine translation
 
 Hi there! I'm [yexca /jɛkɑ/](https://blog.yexca.net/en/)
 
@@ -50,16 +50,15 @@ Inspired by <https://lolicon.app/>, it’s my portfolio for projects. Problem is
 
 ### Blogs  
 
-- WordPress Blog: <https://wp.yexca.net/> *I’m obsessed with the Argon theme!*
-- Jekyll Blog: <https://jekyllblog.yexca.net/> *Great theme, but multi-language support was a nightmare to tweak.*
-- xlog Blog: <https://xlog.yexca.net/> *Lost the wallet during a system reinstall. RIP (crying emoji)*
-- Hugo Blog: <https://blog.yexca.net/> *The current one I’m updating.*
+- Hugo Blog: <https://blog.yexca.net/>
+
+The current blog which supports four languages~
 
 ### VRChat Tutorials  
 
 - Hexo Argon Blog: <https://vrc.yexca.net/>
 - Hugo Book Docs: <https://vrchat.yexca.net/>
-- Docsify Docs: <https://docsifyvrchat.yexca.net/>  
+- Docsify Docs: <https://docsifyvrchat.yexca.net/> *Archive only*  
 
 ### Music  
 
