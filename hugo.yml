@@ -76,3 +76,6 @@ markup:
     lineNos: true
     lineNumbersInTable: true
     tabWidth: 4
+  goldmark:
+    renderer:
+      unsafe: true

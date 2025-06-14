@@ -19,7 +19,7 @@ tags:
 | あくあ色ぱれっと | aqua 的调色盘 | <https://blog.yexca.net/archives/219> |
 | 恋の押し売り | 恋爱推销 | 本文 |
 | 17さいのうた | 17 岁的歌 | <https://blog.yexca.net/archives/224> |
-| drop | 坠入爱河? | <https://blog.yexca.net/archives/230> |
+| drop | 坠入爱河 | <https://blog.yexca.net/archives/230> |
 | 生きるを選んだ私へ | 致选择活下去的自己 | <https://blog.yexca.net/archives/239> |
 | rainy lady | 雨意未晴 | <https://blog.yexca.net/archives/249> |
 | 恋しくなったら手を叩こう | 想谈恋爱的话就拍拍手吧 | <https://blog.yexca.net/archives/250> |
